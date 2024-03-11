@@ -1,0 +1,1298 @@
+retailer,retailer_id,invoice_date,region,state,city,product,price_per_unit,units_sold,total_sales,operating_profit,sales_method
+Foot Locker,1185732,1/1/20,Northeast,New York,New York,Men's Street Footwear,50,1200,600000,300000,In-store
+Foot Locker,1185732,1/1/20,Northeast,Pennsylvania,Philadelphia,Women's Apparel,68,83,5644,2426.92,Online
+Foot Locker,1185732,1/1/20,Northeast,Pennsylvania,Philadelphia,Women's Apparel,75,275,206250,61875,Outlet
+Foot Locker,1185732,1/1/20,Northeast,New York,New York,Men's Street Footwear,34,384,13056,6789.12,Outlet
+Foot Locker,1185732,1/1/20,Northeast,Pennsylvania,Philadelphia,Women's Apparel,53,83,4399,1407.68,Outlet
+Foot Locker,1185732,1/1/20,Northeast,New York,New York,Men's Street Footwear,47,336,15792,9633.12,Online
+West Gear,1128299,1/2/20,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,35,450,157500,63000,Outlet
+West Gear,1128299,1/2/20,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,27,158,4266,1791.72,Outlet
+Foot Locker,1185732,1/2/20,Northeast,New York,New York,Men's Athletic Footwear,47,260,12220,5132.4,Online
+West Gear,1128299,1/2/20,Northeast,Pennsylvania,Philadelphia,Men's Street Footwear,32,122,3904,1991.04,Online
+Foot Locker,1185732,1/2/20,Northeast,New York,New York,Men's Athletic Footwear,36,320,11520,4032,Outlet
+Foot Locker,1185732,1/2/20,Northeast,New York,New York,Men's Athletic Footwear,50,1000,500000,150000,In-store
+West Gear,1128299,1/3/20,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,44,117,5148,1904.76,Online
+West Gear,1128299,1/3/20,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,35,135,4725,1464.75,Outlet
+Foot Locker,1185732,1/3/20,Northeast,New York,New York,Women's Street Footwear,32,350,11200,4144,Outlet
+Foot Locker,1185732,1/3/20,Northeast,New York,New York,Women's Street Footwear,40,1000,400000,140000,In-store
+West Gear,1128299,1/3/20,Northeast,Pennsylvania,Philadelphia,Men's Athletic Footwear,45,450,202500,50625,Outlet
+Foot Locker,1185732,1/3/20,Northeast,New York,New York,Women's Street Footwear,36,250,9000,4140,Online
+West Gear,1128299,1/4/20,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,36,140,5040,2368.8,Outlet
+West Gear,1128299,1/4/20,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,41,117,4797,2590.38,Online
+West Gear,1128299,1/4/20,Northeast,Pennsylvania,Philadelphia,Women's Street Footwear,45,450,202500,81000,Outlet
+Foot Locker,1185732,1/4/20,Northeast,New York,New York,Women's Athletic Footwear,36,281,10116,3742.92,Outlet
+Foot Locker,1185732,1/4/20,Northeast,New York,New York,Women's Athletic Footwear,41,247,10127,4658.42,Online
+Foot Locker,1185732,1/4/20,Northeast,New York,New York,Women's Athletic Footwear,45,850,382500,133875,In-store
+Foot Locker,1185732,1/5/20,Northeast,New York,New York,Men's Apparel,43,306,13158,4868.46,Outlet
+Foot Locker,1185732,1/5/20,Northeast,New York,New York,Men's Apparel,60,900,540000,162000,In-store
+West Gear,1128299,1/5/20,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,45,300,135000,47250,Outlet
+West Gear,1128299,1/5/20,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,34,90,3060,1254.6,Outlet
+Foot Locker,1185732,1/5/20,Northeast,New York,New York,Men's Apparel,55,234,12870,5148,Online
+West Gear,1128299,1/5/20,Northeast,Pennsylvania,Philadelphia,Women's Athletic Footwear,43,87,3741,1870.5,Online
+West Gear,1128299,1/6/20,West,Nevada,Las Vegas,Men's Apparel,47,70,3290,2138.5,Online
+Foot Locker,1185732,1/6/20,Northeast,New York,New York,Women's Apparel,46,260,11960,4425.2,Online
+Foot Locker,1185732,1/6/20,Northeast,New York,New York,Women's Apparel,50,1000,500000,125000,In-store
+West Gear,1128299,1/6/20,West,Nevada,Las Vegas,Men's Apparel,50,250,125000,68750,Outlet
+West Gear,1128299,1/6/20,West,Nevada,Las Vegas,Men's Apparel,37,80,2960,1687.2,Outlet
+Foot Locker,1185732,1/6/20,Northeast,New York,New York,Women's Apparel,38,330,12540,4012.8,Outlet
+Foot Locker,1185732,1/7/20,Northeast,New York,New York,Men's Street Footwear,46,313,14398,8926.76,Online
+West Gear,1128299,1/7/20,West,Nevada,Las Vegas,Women's Apparel,45,475,213750,42750,Outlet
+West Gear,1128299,1/7/20,West,Nevada,Las Vegas,Women's Apparel,36,166,5976,1434.24,Outlet
+Foot Locker,1185732,1/7/20,Northeast,New York,New York,Men's Street Footwear,33,388,12804,6658.08,Outlet
+West Gear,1128299,1/7/20,West,Nevada,Las Vegas,Women's Apparel,41,128,5248,1574.4,Online
+Foot Locker,1185732,1/7/20,Northeast,New York,New York,Men's Street Footwear,50,1250,625000,312500,In-store
+Foot Locker,1185732,1/8/20,Northeast,New York,New York,Men's Athletic Footwear,39,315,12285,4054.05,Outlet
+Foot Locker,1185732,1/8/20,Northeast,New York,New York,Men's Athletic Footwear,46,261,12006,5282.64,Online
+West Gear,1128299,1/8/20,West,Nevada,Las Vegas,Men's Street Footwear,35,525,183750,73500,Outlet
+West Gear,1128299,1/8/20,West,Nevada,Las Vegas,Men's Street Footwear,34,158,5372,2686,Online
+West Gear,1128299,1/8/20,West,Nevada,Las Vegas,Men's Street Footwear,27,173,4671,2008.53,Outlet
+Foot Locker,1185732,1/8/20,Northeast,New York,New York,Men's Athletic Footwear,50,900,450000,135000,Outlet
+West Gear,1128299,1/9/20,West,Nevada,Las Vegas,Men's Athletic Footwear,45,425,191250,47812.5,Outlet
+West Gear,1128299,1/9/20,West,Nevada,Las Vegas,Men's Athletic Footwear,43,128,5504,2201.6,Online
+West Gear,1128299,1/9/20,West,Nevada,Las Vegas,Men's Athletic Footwear,35,145,5075,1573.25,Outlet
+West Gear,1128299,1/10/20,West,Nevada,Las Vegas,Women's Street Footwear,31,140,4340,1866.2,Outlet
+West Gear,1128299,1/10/20,West,Nevada,Las Vegas,Women's Street Footwear,45,425,191250,76500,Outlet
+West Gear,1128299,1/10/20,West,Nevada,Las Vegas,Women's Street Footwear,41,119,4879,2585.87,Online
+West Gear,1128299,1/11/20,West,Nevada,Las Vegas,Women's Athletic Footwear,45,275,123750,43312.5,Outlet
+West Gear,1128299,1/11/20,West,Nevada,Las Vegas,Women's Athletic Footwear,30,85,2550,1045.5,Outlet
+West Gear,1128299,1/11/20,West,Nevada,Las Vegas,Women's Athletic Footwear,44,74,3256,1497.76,Online
+West Gear,1128299,1/12/20,West,Nevada,Las Vegas,Men's Apparel,50,200,100000,55000,Outlet
+West Gear,1128299,1/12/20,West,Nevada,Las Vegas,Men's Apparel,37,70,2590,1579.9,Outlet
+West Gear,1128299,1/12/20,West,Nevada,Las Vegas,Men's Apparel,46,52,2392,1674.4,Online
+West Gear,1128299,1/13/20,West,Nevada,Las Vegas,Women's Apparel,45,400,180000,36000,Outlet
+West Gear,1128299,1/13/20,West,Nevada,Las Vegas,Women's Apparel,31,140,4340,998.2,Outlet
+West Gear,1128299,1/13/20,West,Nevada,Las Vegas,Women's Apparel,41,116,4756,1617.04,Online
+West Gear,1128299,1/14/20,West,Nevada,Las Vegas,Men's Street Footwear,31,182,5642,2538.9,Outlet
+West Gear,1128299,1/14/20,West,Nevada,Las Vegas,Men's Street Footwear,43,160,6880,3784,Online
+West Gear,1128299,1/14/20,West,Nevada,Las Vegas,Men's Street Footwear,45,550,247500,99000,Outlet
+West Gear,1128299,1/15/20,West,Nevada,Las Vegas,Men's Athletic Footwear,50,120,6000,2400,Online
+West Gear,1128299,1/15/20,West,Nevada,Las Vegas,Men's Athletic Footwear,55,400,220000,55000,Outlet
+West Gear,1128299,1/15/20,West,Nevada,Las Vegas,Men's Athletic Footwear,42,124,5208,1666.56,Outlet
+West Gear,1128299,1/16/20,West,Nevada,Las Vegas,Women's Street Footwear,52,104,5408,2866.24,Online
+West Gear,1128299,1/16/20,West,Nevada,Las Vegas,Women's Street Footwear,55,400,220000,88000,Outlet
+West Gear,1128299,1/16/20,West,Nevada,Las Vegas,Women's Street Footwear,43,128,5504,2586.88,Outlet
+West Gear,1128299,1/17/20,West,Nevada,Las Vegas,Women's Athletic Footwear,50,84,4200,1974,Online
+West Gear,1128299,1/17/20,West,Nevada,Las Vegas,Women's Athletic Footwear,55,300,165000,57750,Outlet
+West Gear,1128299,1/17/20,West,Nevada,Las Vegas,Women's Athletic Footwear,41,93,3813,1563.33,Outlet
+West Gear,1128299,1/18/20,West,Nevada,Las Vegas,Men's Apparel,55,47,2585,1809.5,Online
+West Gear,1128299,1/18/20,West,Nevada,Las Vegas,Men's Apparel,44,60,2640,1636.8,Outlet
+West Gear,1128299,1/18/20,West,Nevada,Las Vegas,Men's Apparel,60,175,105000,57750,Outlet
+West Gear,1128299,1/19/20,West,Nevada,Las Vegas,Women's Apparel,54,94,5076,1725.84,Online
+West Gear,1128299,1/19/20,West,Nevada,Las Vegas,Women's Apparel,55,375,206250,41250,Outlet
+West Gear,1128299,1/19/20,West,Nevada,Las Vegas,Women's Apparel,39,124,4836,1257.36,Outlet
+West Gear,1128299,1/20/20,West,Nevada,Las Vegas,Men's Street Footwear,60,550,330000,132000,Outlet
+West Gear,1128299,1/20/20,West,Nevada,Las Vegas,Men's Street Footwear,58,143,8294,4229.94,Online
+West Gear,1128299,1/20/20,West,Nevada,Las Vegas,Men's Street Footwear,41,171,7011,2944.62,Outlet
+West Gear,1128299,1/21/20,West,Nevada,Las Vegas,Men's Athletic Footwear,62,102,6324,2403.12,Online
+Foot Locker,1185732,1/21/20,Northeast,New York,New York,Women's Street Footwear,32,323,10336,3927.68,Outlet
+Foot Locker,1185732,1/21/20,Northeast,New York,New York,Women's Street Footwear,36,276,9936,4669.92,Online
+Foot Locker,1185732,1/21/20,Northeast,New York,New York,Women's Street Footwear,40,950,380000,133000,Outlet
+West Gear,1128299,1/21/20,West,Nevada,Las Vegas,Men's Athletic Footwear,46,116,5336,1547.44,Outlet
+West Gear,1128299,1/21/20,West,Nevada,Las Vegas,Men's Athletic Footwear,65,350,227500,56875,Outlet
+West Gear,1128299,1/22/20,West,Nevada,Las Vegas,Women's Street Footwear,65,400,260000,104000,Outlet
+Foot Locker,1185732,1/22/20,Northeast,New York,New York,Women's Athletic Footwear,32,248,7936,3015.68,Outlet
+Foot Locker,1185732,1/22/20,Northeast,New York,New York,Women's Athletic Footwear,45,825,371250,129937.5,Outlet
+Foot Locker,1185732,1/22/20,Northeast,New York,New York,Women's Athletic Footwear,44,206,9064,4441.36,Online
+West Gear,1128299,1/22/20,West,Nevada,Las Vegas,Women's Street Footwear,47,120,5640,2538,Outlet
+West Gear,1128299,1/22/20,West,Nevada,Las Vegas,Women's Street Footwear,61,120,7320,3879.6,Online
+West Gear,1128299,1/23/20,West,Nevada,Las Vegas,Women's Athletic Footwear,59,75,4425,2035.5,Online
+West Gear,1128299,1/23/20,West,Nevada,Las Vegas,Women's Athletic Footwear,60,300,180000,63000,Outlet
+Foot Locker,1185732,1/23/20,Northeast,New York,New York,Men's Apparel,60,900,540000,162000,Outlet
+Foot Locker,1185732,1/23/20,Northeast,New York,New York,Men's Apparel,58,243,14094,6060.42,Online
+Foot Locker,1185732,1/23/20,Northeast,New York,New York,Men's Apparel,43,306,13158,4605.3,Outlet
+West Gear,1128299,1/23/20,West,Nevada,Las Vegas,Women's Athletic Footwear,40,90,3600,1476,Outlet
+West Gear,1128299,1/24/20,West,Nevada,Las Vegas,Men's Apparel,63,52,3276,2162.16,Online
+West Gear,1128299,1/24/20,West,Nevada,Las Vegas,Men's Apparel,65,200,130000,71500,Outlet
+West Gear,1128299,1/24/20,West,Nevada,Las Vegas,Men's Apparel,47,62,2914,1777.54,Outlet
+Foot Locker,1185732,1/24/20,Northeast,New York,New York,Women's Apparel,50,1000,500000,125000,Outlet
+Foot Locker,1185732,1/24/20,Northeast,New York,New York,Women's Apparel,36,350,12600,3654,Outlet
+Foot Locker,1185732,1/24/20,Northeast,New York,New York,Women's Apparel,48,290,13920,5289.6,Online
+Foot Locker,1185732,1/25/20,Northeast,New York,New York,Men's Street Footwear,40,390,15600,8112,Outlet
+Foot Locker,1185732,1/25/20,Northeast,New York,New York,Men's Street Footwear,46,354,16284,10258.92,Online
+West Gear,1128299,1/25/20,West,Nevada,Las Vegas,Women's Apparel,80,350,280000,56000,Outlet
+Foot Locker,1185732,1/25/20,Northeast,New York,New York,Men's Street Footwear,50,1220,610000,305000,Outlet
+West Gear,1128299,1/25/20,West,Nevada,Las Vegas,Women's Apparel,54,123,6642,1793.34,Outlet
+West Gear,1128299,1/25/20,West,Nevada,Las Vegas,Women's Apparel,78,95,7410,2519.4,Online
+West Gear,1128299,1/26/20,West,Nevada,Las Vegas,Men's Street Footwear,60,550,330000,148500,Outlet
+Foot Locker,1185732,1/26/20,Northeast,New York,New York,Men's Athletic Footwear,48,259,12432,5345.76,Online
+West Gear,1128299,1/26/20,West,Nevada,Las Vegas,Men's Street Footwear,58,149,8642,5012.36,Online
+West Gear,1128299,1/26/20,West,Nevada,Las Vegas,Men's Street Footwear,43,171,7353,3529.44,Outlet
+Foot Locker,1185732,1/26/20,Northeast,New York,New York,Men's Athletic Footwear,35,315,11025,3969,Outlet
+Foot Locker,1185732,1/26/20,Northeast,New York,New York,Men's Athletic Footwear,50,925,462500,138750,Outlet
+Foot Locker,1185732,1/27/20,Northeast,New York,New York,Women's Street Footwear,27,314,8478,3475.98,Outlet
+Foot Locker,1185732,1/27/20,Northeast,New York,New York,Women's Street Footwear,40,950,380000,133000,Outlet
+West Gear,1128299,1/27/20,West,Nevada,Las Vegas,Men's Athletic Footwear,60,104,6240,2683.2,Online
+West Gear,1128299,1/27/20,West,Nevada,Las Vegas,Men's Athletic Footwear,65,400,260000,78000,Outlet
+Foot Locker,1185732,1/27/20,Northeast,New York,New York,Women's Street Footwear,39,247,9633,4720.17,Online
+West Gear,1128299,1/27/20,West,Nevada,Las Vegas,Men's Athletic Footwear,43,120,5160,1806,Outlet
+West Gear,1128299,1/28/20,West,Nevada,Las Vegas,Women's Street Footwear,63,116,7308,4165.56,Online
+West Gear,1128299,1/28/20,West,Nevada,Las Vegas,Women's Street Footwear,65,400,260000,117000,Outlet
+Foot Locker,1185732,1/28/20,Northeast,New York,New York,Women's Athletic Footwear,31,240,7440,2976,Outlet
+Foot Locker,1185732,1/28/20,Northeast,New York,New York,Women's Athletic Footwear,45,800,360000,126000,Outlet
+West Gear,1128299,1/28/20,West,Nevada,Las Vegas,Women's Street Footwear,49,132,6468,3039.96,Outlet
+Foot Locker,1185732,1/28/20,Northeast,New York,New York,Women's Athletic Footwear,43,216,9288,4644,Online
+Foot Locker,1185732,1/29/20,Northeast,New York,New York,Men's Apparel,43,289,12427,3976.64,Outlet
+West Gear,1128299,1/29/20,West,Nevada,Las Vegas,Women's Athletic Footwear,57,90,5130,2565,Online
+West Gear,1128299,1/29/20,West,Nevada,Las Vegas,Women's Athletic Footwear,47,105,4935,2270.1,Outlet
+West Gear,1128299,1/29/20,West,Nevada,Las Vegas,Women's Athletic Footwear,60,300,180000,72000,Outlet
+Foot Locker,1185732,1/29/20,Northeast,New York,New York,Men's Apparel,59,230,13570,5699.4,Online
+Foot Locker,1185732,1/29/20,Northeast,New York,New York,Men's Apparel,60,850,510000,153000,Outlet
+West Gear,1128299,1/30/20,West,Nevada,Las Vegas,Men's Apparel,43,66,2838,1873.08,Outlet
+West Gear,1128299,1/30/20,West,Nevada,Las Vegas,Men's Apparel,60,60,3600,2520,Online
+Foot Locker,1185732,1/30/20,Northeast,New York,New York,Women's Apparel,45,238,10710,3748.5,Online
+Foot Locker,1185732,1/30/20,Northeast,New York,New York,Women's Apparel,50,950,475000,118750,Outlet
+West Gear,1128299,1/30/20,West,Nevada,Las Vegas,Men's Apparel,65,200,130000,78000,Outlet
+Foot Locker,1185732,1/30/20,Northeast,New York,New York,Women's Apparel,36,323,11628,3139.56,Outlet
+West Gear,1128299,1/31/20,West,Nevada,Las Vegas,Women's Apparel,54,140,7560,2419.2,Outlet
+Foot Locker,1185732,1/31/20,Northeast,New York,New York,Men's Street Footwear,45,300,13500,8370,Online
+West Gear,1128299,1/31/20,West,Nevada,Las Vegas,Women's Apparel,80,450,360000,90000,Outlet
+Foot Locker,1185732,1/31/20,Northeast,New York,New York,Men's Street Footwear,50,1200,600000,300000,Outlet
+Foot Locker,1185732,1/31/20,Northeast,New York,New York,Men's Street Footwear,33,372,12276,6629.04,Outlet
+West Gear,1128299,1/31/20,West,Nevada,Las Vegas,Women's Apparel,78,131,10218,3576.3,Online
+Foot Locker,1185732,2/1/20,Northeast,New York,New York,Men's Athletic Footwear,35,315,11025,3638.25,Outlet
+West Gear,1128299,2/1/20,West,Nevada,Las Vegas,Men's Street Footwear,60,700,420000,189000,Outlet
+West Gear,1128299,2/1/20,West,Nevada,Las Vegas,Men's Street Footwear,47,245,11515,5757.5,Outlet
+Foot Locker,1185732,2/1/20,Northeast,New York,New York,Men's Athletic Footwear,47,234,10998,4509.18,Online
+Foot Locker,1185732,2/1/20,Northeast,New York,New York,Men's Athletic Footwear,50,900,450000,135000,Outlet
+West Gear,1128299,2/1/20,West,Nevada,Las Vegas,Men's Street Footwear,56,189,10584,6032.88,Online
+West Gear,1128299,2/2/20,West,Nevada,Las Vegas,Men's Athletic Footwear,62,165,10230,4194.3,Online
+West Gear,1128299,2/2/20,West,Nevada,Las Vegas,Men's Athletic Footwear,51,182,9282,3341.52,Outlet
+West Gear,1128299,2/2/20,West,Nevada,Las Vegas,Men's Athletic Footwear,65,550,357500,107250,Outlet
+Foot Locker,1185732,2/2/20,Northeast,New York,New York,Women's Street Footwear,28,315,8820,3351.6,Outlet
+Foot Locker,1185732,2/2/20,Northeast,New York,New York,Women's Street Footwear,40,900,360000,126000,Outlet
+Foot Locker,1185732,2/2/20,Northeast,New York,New York,Women's Street Footwear,39,252,9828,4914,Online
+West Gear,1128299,2/3/20,West,Nevada,Las Vegas,Women's Street Footwear,65,550,357500,160875,Outlet
+West Gear,1128299,2/3/20,West,Nevada,Las Vegas,Women's Street Footwear,62,165,10230,6035.7,Online
+Foot Locker,1185732,2/3/20,Northeast,New York,New York,Women's Athletic Footwear,31,289,8959,3314.83,Outlet
+Foot Locker,1185732,2/3/20,Northeast,New York,New York,Women's Athletic Footwear,45,825,371250,129937.5,Outlet
+West Gear,1128299,2/3/20,West,Nevada,Las Vegas,Women's Street Footwear,46,176,8096,3886.08,Outlet
+Foot Locker,1185732,2/3/20,Northeast,New York,New York,Women's Athletic Footwear,41,239,9799,4801.51,Online
+West Gear,1128299,2/4/20,West,Nevada,Las Vegas,Women's Athletic Footwear,60,425,255000,102000,Outlet
+West Gear,1128299,2/4/20,West,Nevada,Las Vegas,Women's Athletic Footwear,58,111,6438,3283.38,Online
+West Gear,1128299,2/4/20,West,Nevada,Las Vegas,Women's Athletic Footwear,47,145,6815,3066.75,Outlet
+Foot Locker,1185732,2/4/20,Northeast,New York,New York,Men's Apparel,60,825,495000,148500,Outlet
+Foot Locker,1185732,2/4/20,Northeast,New York,New York,Men's Apparel,44,281,12364,4451.04,Outlet
+Foot Locker,1185732,2/4/20,Northeast,New York,New York,Men's Apparel,56,215,12040,5056.8,Online
+West Gear,1128299,2/5/20,West,Nevada,Las Vegas,Men's Apparel,59,81,4779,3536.46,Online
+Foot Locker,1185732,2/5/20,Northeast,New York,New York,Women's Apparel,49,238,11662,4314.94,Online
+Foot Locker,1185732,2/5/20,Northeast,New York,New York,Women's Apparel,39,333,12987,3506.49,Outlet
+Foot Locker,1185732,2/5/20,Northeast,New York,New York,Women's Apparel,50,950,475000,118750,Outlet
+West Gear,1128299,2/5/20,West,Nevada,Las Vegas,Men's Apparel,47,105,4935,3207.75,Outlet
+West Gear,1128299,2/5/20,West,Nevada,Las Vegas,Men's Apparel,65,300,195000,117000,Outlet
+Foot Locker,1185732,2/6/20,Northeast,New York,New York,Men's Street Footwear,54,317,17118,10955.52,Online
+West Gear,1128299,2/6/20,West,Nevada,Las Vegas,Women's Apparel,57,192,10944,3064.32,Outlet
+West Gear,1128299,2/6/20,West,Nevada,Las Vegas,Women's Apparel,80,600,480000,120000,Outlet
+West Gear,1128299,2/6/20,West,Nevada,Las Vegas,Women's Apparel,73,174,12702,5080.8,Online
+Foot Locker,1185732,2/6/20,Northeast,New York,New York,Men's Street Footwear,44,366,16104,8374.08,Outlet
+Foot Locker,1185732,2/6/20,Northeast,New York,New York,Men's Street Footwear,60,1220,732000,366000,Outlet
+West Gear,1128299,2/7/20,West,Nevada,Las Vegas,Men's Street Footwear,58,218,12644,6701.32,Online
+Foot Locker,1185732,2/7/20,Northeast,New York,New York,Men's Athletic Footwear,50,259,12950,5180,Online
+Foot Locker,1185732,2/7/20,Northeast,New York,New York,Men's Athletic Footwear,37,296,10952,3833.2,Outlet
+Foot Locker,1185732,2/7/20,Northeast,New York,New York,Men's Athletic Footwear,55,925,508750,152625,Outlet
+West Gear,1128299,2/7/20,West,Nevada,Las Vegas,Men's Street Footwear,48,233,11184,4920.96,Outlet
+West Gear,1128299,2/7/20,West,Nevada,Las Vegas,Men's Street Footwear,60,750,450000,180000,Outlet
+West Gear,1128299,2/8/20,West,Nevada,Las Vegas,Men's Athletic Footwear,65,600,390000,97500,Outlet
+Foot Locker,1185732,2/8/20,Northeast,New York,New York,Women's Street Footwear,36,288,10368,4354.56,Outlet
+West Gear,1128299,2/8/20,West,Nevada,Las Vegas,Men's Athletic Footwear,61,174,10614,3821.04,Online
+Foot Locker,1185732,2/8/20,Northeast,New York,New York,Women's Street Footwear,50,900,450000,157500,Outlet
+West Gear,1128299,2/8/20,West,Nevada,Las Vegas,Men's Athletic Footwear,46,204,9384,2533.68,Outlet
+Foot Locker,1185732,2/8/20,Northeast,New York,New York,Women's Street Footwear,46,261,12006,5642.82,Online
+West Gear,1128299,2/9/20,West,Nevada,Las Vegas,Women's Street Footwear,65,550,357500,143000,In-store
+Foot Locker,1185732,2/9/20,Northeast,New York,New York,Women's Athletic Footwear,50,850,425000,148750,Outlet
+Foot Locker,1185732,2/9/20,Northeast,New York,New York,Women's Athletic Footwear,46,230,10580,5078.4,Online
+Foot Locker,1185732,2/9/20,Northeast,New York,New York,Women's Athletic Footwear,33,289,9537,3814.8,Outlet
+West Gear,1128299,2/9/20,West,Nevada,Las Vegas,Women's Street Footwear,61,143,8723,4623.19,Online
+West Gear,1128299,2/9/20,West,Nevada,Las Vegas,Women's Street Footwear,47,171,8037,3616.65,Outlet
+Foot Locker,1185732,2/10/20,Northeast,New York,New York,Men's Apparel,60,875,525000,157500,Outlet
+Foot Locker,1185732,2/10/20,Northeast,New York,New York,Men's Apparel,59,245,14455,6504.75,Online
+West Gear,1128299,2/10/20,West,Nevada,Las Vegas,Women's Athletic Footwear,55,117,6435,3153.15,Online
+West Gear,1128299,2/10/20,West,Nevada,Las Vegas,Women's Athletic Footwear,46,140,6440,2704.8,Outlet
+West Gear,1128299,2/10/20,West,Nevada,Las Vegas,Women's Athletic Footwear,60,450,270000,94500,In-store
+Foot Locker,1185732,2/10/20,Northeast,New York,New York,Men's Apparel,47,280,13160,4606,Outlet
+West Gear,1128299,2/11/20,West,Nevada,Las Vegas,Men's Apparel,60,130,7800,5460,Online
+West Gear,1128299,2/11/20,West,Nevada,Las Vegas,Men's Apparel,65,500,325000,178750,In-store
+West Gear,1128299,2/11/20,West,Nevada,Las Vegas,Men's Apparel,47,150,7050,4159.5,Outlet
+West Gear,1128299,2/12/20,West,Nevada,Las Vegas,Women's Apparel,61,170,10370,2799.9,Outlet
+West Gear,1128299,2/12/20,West,Nevada,Las Vegas,Women's Apparel,78,145,11310,3393,Online
+West Gear,1128299,2/12/20,West,Nevada,Las Vegas,Women's Apparel,80,500,400000,80000,In-store
+West Gear,1128299,2/13/20,West,Nevada,Las Vegas,Men's Street Footwear,44,238,10472,4817.12,Outlet
+West Gear,1128299,2/13/20,West,Nevada,Las Vegas,Men's Street Footwear,62,210,13020,6900.6,Online
+West Gear,1128299,2/13/20,West,Nevada,Las Vegas,Men's Street Footwear,65,700,455000,182000,In-store
+West Gear,1128299,2/14/20,West,Nevada,Las Vegas,Men's Athletic Footwear,70,650,455000,113750,In-store
+West Gear,1128299,2/14/20,West,Nevada,Las Vegas,Men's Athletic Footwear,56,208,11648,3377.92,Outlet
+West Gear,1128299,2/14/20,West,Nevada,Las Vegas,Men's Athletic Footwear,64,182,11648,4542.72,Online
+West Gear,1128299,2/15/20,West,Nevada,Las Vegas,Women's Street Footwear,65,525,341250,136500,In-store
+West Gear,1128299,2/15/20,West,Nevada,Las Vegas,Women's Street Footwear,60,152,9120,4742.4,Online
+West Gear,1128299,2/15/20,West,Nevada,Las Vegas,Women's Street Footwear,44,179,7876,3307.92,Outlet
+West Gear,1128299,2/16/20,West,Nevada,Las Vegas,Women's Athletic Footwear,64,124,7936,3729.92,Online
+West Gear,1128299,2/16/20,West,Nevada,Las Vegas,Women's Athletic Footwear,65,475,308750,108062.5,In-store
+West Gear,1128299,2/16/20,West,Nevada,Las Vegas,Women's Athletic Footwear,42,152,6384,2681.28,Outlet
+West Gear,1128299,2/17/20,West,Nevada,Las Vegas,Men's Apparel,50,152,7600,4484,Outlet
+West Gear,1128299,2/17/20,West,Nevada,Las Vegas,Men's Apparel,75,475,356250,195937.5,In-store
+West Gear,1128299,2/17/20,West,Nevada,Las Vegas,Men's Apparel,68,138,9384,6381.12,Online
+West Gear,1128299,2/18/20,West,Nevada,Las Vegas,Women's Apparel,80,400,320000,64000,In-store
+West Gear,1128299,2/18/20,West,Nevada,Las Vegas,Women's Apparel,78,108,8424,2864.16,Online
+West Gear,1128299,2/18/20,West,Nevada,Las Vegas,Women's Apparel,55,128,7040,1830.4,Outlet
+West Gear,1128299,2/19/20,West,Nevada,Las Vegas,Men's Street Footwear,60,600,360000,126000,In-store
+West Gear,1128299,2/19/20,West,Nevada,Las Vegas,Men's Street Footwear,41,186,7626,2897.88,Outlet
+West Gear,1128299,2/19/20,West,Nevada,Las Vegas,Men's Street Footwear,56,174,9744,4677.12,Online
+West Gear,1128299,2/20/20,West,Nevada,Las Vegas,Men's Athletic Footwear,61,162,9882,3359.88,Online
+West Gear,1128299,2/20/20,West,Nevada,Las Vegas,Men's Athletic Footwear,65,600,390000,78000,In-store
+West Gear,1128299,2/20/20,West,Nevada,Las Vegas,Men's Athletic Footwear,51,180,9180,2478.6,Outlet
+West Gear,1128299,2/21/20,West,Nevada,Las Vegas,Women's Street Footwear,46,144,6624,2715.84,Outlet
+West Gear,1128299,2/21/20,West,Nevada,Las Vegas,Women's Street Footwear,60,450,270000,94500,In-store
+West Gear,1128299,2/21/20,West,Nevada,Las Vegas,Women's Street Footwear,57,117,6669,3334.5,Online
+West Gear,1128299,2/22/20,West,Nevada,Las Vegas,Women's Athletic Footwear,43,124,5332,1866.2,Outlet
+West Gear,1128299,2/22/20,West,Nevada,Las Vegas,Women's Athletic Footwear,60,400,240000,72000,In-store
+West Gear,1128299,2/22/20,West,Nevada,Las Vegas,Women's Athletic Footwear,58,112,6496,2858.24,Online
+West Gear,1128299,2/23/20,West,Nevada,Las Vegas,Men's Apparel,67,120,8040,4904.4,Online
+West Gear,1128299,2/23/20,West,Nevada,Las Vegas,Men's Apparel,53,128,6784,3595.52,Outlet
+West Gear,1128299,2/23/20,West,Nevada,Las Vegas,Men's Apparel,70,400,280000,140000,In-store
+West Gear,1128299,2/24/20,West,Nevada,Las Vegas,Women's Apparel,54,140,7560,1587.6,Outlet
+West Gear,1128299,2/24/20,West,Nevada,Las Vegas,Women's Apparel,75,450,337500,50625,In-store
+West Gear,1128299,2/24/20,West,Nevada,Las Vegas,Women's Apparel,74,113,8362,2508.6,Online
+West Gear,1128299,2/25/20,West,Nevada,Las Vegas,Men's Street Footwear,47,171,8037,3214.8,Outlet
+West Gear,1128299,2/25/20,West,Nevada,Las Vegas,Men's Street Footwear,56,138,7728,3786.72,Online
+West Gear,1128299,2/25/20,West,Nevada,Las Vegas,Men's Street Footwear,60,550,330000,115500,In-store
+West Gear,1128299,2/26/20,West,Nevada,Las Vegas,Men's Athletic Footwear,50,193,9650,2412.5,Outlet
+West Gear,1128299,2/26/20,West,Nevada,Las Vegas,Men's Athletic Footwear,59,165,9735,3407.25,Online
+West Gear,1128299,2/26/20,West,Nevada,Las Vegas,Men's Athletic Footwear,65,550,357500,71500,In-store
+West Gear,1128299,2/27/20,West,Nevada,Las Vegas,Women's Street Footwear,54,109,5886,2648.7,Online
+West Gear,1128299,2/27/20,West,Nevada,Las Vegas,Women's Street Footwear,60,375,225000,78750,In-store
+West Gear,1128299,2/27/20,West,Nevada,Las Vegas,Women's Street Footwear,47,113,5311,2230.62,Outlet
+West Gear,1128299,2/28/20,West,Nevada,Las Vegas,Women's Athletic Footwear,54,105,5670,2381.4,Online
+West Gear,1128299,2/28/20,West,Nevada,Las Vegas,Women's Athletic Footwear,60,350,210000,63000,In-store
+West Gear,1128299,2/28/20,West,Nevada,Las Vegas,Women's Athletic Footwear,43,119,5117,1688.61,Outlet
+West Gear,1128299,3/1/20,West,Nevada,Las Vegas,Men's Apparel,70,325,227500,113750,In-store
+West Gear,1128299,3/1/20,West,Nevada,Las Vegas,Men's Apparel,48,107,5136,2773.44,Outlet
+West Gear,1128299,3/1/20,West,Nevada,Las Vegas,Men's Apparel,63,81,5103,3112.83,Online
+West Gear,1128299,3/2/20,West,Nevada,Las Vegas,Women's Apparel,68,94,6392,1598,Online
+West Gear,1128299,3/2/20,West,Nevada,Las Vegas,Women's Apparel,75,375,281250,42187.5,In-store
+West Gear,1128299,3/2/20,West,Nevada,Las Vegas,Women's Apparel,53,120,6360,1399.2,Outlet
+West Gear,1128299,3/3/20,West,Nevada,Las Vegas,Men's Street Footwear,60,575,345000,120750,In-store
+Foot Locker,1185732,3/3/20,Northeast,New York,New York,Women's Apparel,59,290,17110,6159.6,Online
+West Gear,1128299,3/3/20,West,Nevada,Las Vegas,Men's Street Footwear,47,196,9212,3869.04,Outlet
+Foot Locker,1185732,3/3/20,Northeast,New York,New York,Women's Apparel,65,1000,650000,162500,Outlet
+Foot Locker,1185732,3/3/20,Northeast,New York,New York,Women's Apparel,44,320,14080,4083.2,Outlet
+West Gear,1128299,3/3/20,West,Nevada,Las Vegas,Men's Street Footwear,57,155,8835,4240.8,Online
+West Gear,1128299,3/4/20,West,Nevada,Las Vegas,Men's Athletic Footwear,64,150,9600,3264,Online
+West Gear,1128299,3/4/20,West,Nevada,Las Vegas,Men's Athletic Footwear,65,575,373750,74750,In-store
+Foot Locker,1185732,3/4/20,Northeast,New York,New York,Men's Street Footwear,55,313,17215,10501.15,Online
+West Gear,1128299,3/4/20,West,Nevada,Las Vegas,Men's Athletic Footwear,52,201,10452,2613,Outlet
+Foot Locker,1185732,3/4/20,Northeast,New York,New York,Men's Street Footwear,47,400,18800,9776,Outlet
+Foot Locker,1185732,3/4/20,Northeast,New York,New York,Men's Street Footwear,60,1250,750000,375000,Outlet
+Foot Locker,1185732,3/5/20,Northeast,New York,New York,Men's Athletic Footwear,55,1000,550000,165000,Outlet
+West Gear,1128299,3/5/20,West,Nevada,Las Vegas,Women's Street Footwear,60,425,255000,89250,In-store
+Foot Locker,1185732,3/5/20,Northeast,New York,New York,Men's Athletic Footwear,54,270,14580,5977.8,Online
+West Gear,1128299,3/5/20,West,Nevada,Las Vegas,Women's Street Footwear,44,140,6160,2587.2,Outlet
+West Gear,1128299,3/5/20,West,Nevada,Las Vegas,Women's Street Footwear,55,106,5830,2681.8,Online
+Foot Locker,1185732,3/5/20,Northeast,New York,New York,Men's Athletic Footwear,41,340,13940,4739.6,Outlet
+West Gear,1128299,3/6/20,West,Nevada,Las Vegas,Women's Athletic Footwear,43,132,5676,1986.6,Outlet
+West Gear,1128299,3/6/20,West,Nevada,Las Vegas,Women's Athletic Footwear,60,400,240000,72000,In-store
+Foot Locker,1185732,3/6/20,Northeast,New York,New York,Women's Street Footwear,46,278,12788,6138.24,Online
+Foot Locker,1185732,3/6/20,Northeast,New York,New York,Women's Street Footwear,50,925,462500,161875,Outlet
+Foot Locker,1185732,3/6/20,Northeast,New York,New York,Women's Street Footwear,37,296,10952,4490.32,Outlet
+West Gear,1128299,3/6/20,West,Nevada,Las Vegas,Women's Athletic Footwear,56,108,6048,2479.68,Online
+West Gear,1128299,3/7/20,West,Nevada,Las Vegas,Men's Apparel,70,350,245000,122500,In-store
+West Gear,1128299,3/7/20,West,Nevada,Las Vegas,Men's Apparel,64,88,5632,3604.48,Online
+Foot Locker,1185732,3/7/20,Northeast,New York,New York,Women's Athletic Footwear,47,261,12267,5520.15,Online
+West Gear,1128299,3/7/20,West,Nevada,Las Vegas,Men's Apparel,46,119,5474,2955.96,Outlet
+Foot Locker,1185732,3/7/20,Northeast,New York,New York,Women's Athletic Footwear,38,297,11286,4288.68,Outlet
+Foot Locker,1185732,3/7/20,Northeast,New York,New York,Women's Athletic Footwear,50,900,450000,157500,Outlet
+West Gear,1128299,3/8/20,West,Nevada,Las Vegas,Women's Apparel,75,475,356250,53437.5,In-store
+West Gear,1128299,3/8/20,West,Nevada,Las Vegas,Women's Apparel,51,162,8262,1735.02,Outlet
+West Gear,1128299,3/8/20,West,Nevada,Las Vegas,Women's Apparel,68,133,9044,2351.44,Online
+Foot Locker,1185732,3/8/20,Northeast,New York,New York,Men's Apparel,55,252,13860,6237,Online
+Foot Locker,1185732,3/8/20,Northeast,New York,New York,Men's Apparel,45,288,12960,4406.4,Outlet
+Foot Locker,1185732,3/8/20,Northeast,New York,New York,Men's Apparel,60,900,540000,162000,Outlet
+West Gear,1128299,3/9/20,West,Nevada,Las Vegas,Men's Street Footwear,47,216,10152,3756.24,Outlet
+Foot Locker,1185732,3/9/20,Northeast,New York,New York,Women's Apparel,64,305,19520,7612.8,Online
+Foot Locker,1185732,3/9/20,Northeast,New York,New York,Women's Apparel,65,1050,682500,170625,Outlet
+Foot Locker,1185732,3/9/20,Northeast,New York,New York,Women's Apparel,46,347,15962,5107.84,Outlet
+West Gear,1128299,3/9/20,West,Nevada,Las Vegas,Men's Street Footwear,58,196,11368,5342.96,Online
+West Gear,1128299,3/9/20,West,Nevada,Las Vegas,Men's Street Footwear,60,675,405000,141750,In-store
+West Gear,1128299,3/10/20,West,Nevada,Las Vegas,Men's Athletic Footwear,62,189,11718,3984.12,Online
+Foot Locker,1185732,3/10/20,Northeast,New York,New York,Men's Street Footwear,60,1275,765000,382500,Outlet
+West Gear,1128299,3/10/20,West,Nevada,Las Vegas,Men's Athletic Footwear,65,675,438750,87750,In-store
+Foot Locker,1185732,3/10/20,Northeast,New York,New York,Men's Street Footwear,44,434,19096,9929.92,Outlet
+West Gear,1128299,3/10/20,West,Nevada,Las Vegas,Men's Athletic Footwear,50,209,10450,2612.5,Outlet
+Foot Locker,1185732,3/10/20,Northeast,New York,New York,Men's Street Footwear,59,319,18821,11292.6,Online
+Foot Locker,1185732,3/11/20,Northeast,New York,New York,Men's Athletic Footwear,41,318,13038,4824.06,Outlet
+West Gear,1128299,3/11/20,West,Nevada,Las Vegas,Women's Street Footwear,47,166,7802,3276.84,Outlet
+West Gear,1128299,3/11/20,West,Nevada,Las Vegas,Women's Street Footwear,60,475,285000,99750,In-store
+West Gear,1128299,3/11/20,West,Nevada,Las Vegas,Women's Street Footwear,59,119,7021,3299.87,Online
+Foot Locker,1185732,3/11/20,Northeast,New York,New York,Men's Athletic Footwear,53,267,14151,5943.42,Online
+Foot Locker,1185732,3/11/20,Northeast,New York,New York,Men's Athletic Footwear,55,1025,563750,169125,Outlet
+West Gear,1128299,3/12/20,West,Nevada,Las Vegas,Women's Athletic Footwear,40,166,6640,2390.4,Outlet
+West Gear,1128299,3/12/20,West,Nevada,Las Vegas,Women's Athletic Footwear,60,475,285000,85500,In-store
+Foot Locker,1185732,3/12/20,Northeast,New York,New York,Women's Street Footwear,35,295,10325,4336.5,Outlet
+West Gear,1128299,3/12/20,West,Nevada,Las Vegas,Women's Athletic Footwear,57,133,7581,3335.64,Online
+Foot Locker,1185732,3/12/20,Northeast,New York,New York,Women's Street Footwear,50,950,475000,166250,Outlet
+Foot Locker,1185732,3/12/20,Northeast,New York,New York,Women's Street Footwear,46,247,11362,5112.9,Online
+West Gear,1128299,3/13/20,West,Nevada,Las Vegas,Men's Apparel,69,112,7728,4636.8,Online
+Foot Locker,1185732,3/13/20,Northeast,New York,New York,Women's Athletic Footwear,50,900,450000,157500,Outlet
+Foot Locker,1185732,3/13/20,Northeast,New York,New York,Women's Athletic Footwear,46,243,11178,5141.88,Online
+Foot Locker,1185732,3/13/20,Northeast,New York,New York,Women's Athletic Footwear,35,270,9450,3496.5,Outlet
+West Gear,1128299,3/13/20,West,Nevada,Las Vegas,Men's Apparel,70,400,280000,140000,In-store
+West Gear,1128299,3/13/20,West,Nevada,Las Vegas,Men's Apparel,49,136,6664,3598.56,Outlet
+West Gear,1128299,3/14/20,West,Nevada,Las Vegas,Women's Apparel,74,150,11100,2997,Online
+Foot Locker,1185732,3/14/20,Northeast,New York,New York,Men's Apparel,60,925,555000,166500,Outlet
+West Gear,1128299,3/14/20,West,Nevada,Las Vegas,Women's Apparel,75,500,375000,56250,In-store
+Foot Locker,1185732,3/14/20,Northeast,New York,New York,Men's Apparel,46,278,12788,4347.92,Outlet
+Foot Locker,1185732,3/14/20,Northeast,New York,New York,Men's Apparel,58,231,13398,5761.14,Online
+West Gear,1128299,3/14/20,West,Nevada,Las Vegas,Women's Apparel,56,170,9520,1713.6,Outlet
+West Gear,1128299,3/15/20,West,Nevada,Las Vegas,Men's Street Footwear,30,425,127500,44625,In-store
+West Gear,1128299,3/15/20,West,Nevada,Las Vegas,Men's Street Footwear,28,123,3444,1722,Online
+Foot Locker,1185732,3/15/20,Northeast,New York,New York,Women's Apparel,61,286,17446,6978.4,Online
+Foot Locker,1185732,3/15/20,Northeast,New York,New York,Women's Apparel,65,1100,715000,178750,Outlet
+Foot Locker,1185732,3/15/20,Northeast,New York,New York,Women's Apparel,47,352,16544,4466.88,Outlet
+West Gear,1128299,3/15/20,West,Nevada,Las Vegas,Men's Street Footwear,20,149,2980,1192,Outlet
+West Gear,1128299,3/16/20,West,Nevada,Las Vegas,Men's Athletic Footwear,40,425,170000,34000,In-store
+Foot Locker,1185732,3/16/20,Northeast,New York,New York,Men's Street Footwear,60,1250,750000,375000,Outlet
+Foot Locker,1185732,3/16/20,Northeast,New York,New York,Men's Street Footwear,41,375,15375,7995,Outlet
+Foot Locker,1185732,3/16/20,Northeast,New York,New York,Men's Street Footwear,58,325,18850,11498.5,Online
+West Gear,1128299,3/16/20,West,Nevada,Las Vegas,Men's Athletic Footwear,31,145,4495,1123.75,Outlet
+West Gear,1128299,3/16/20,West,Nevada,Las Vegas,Men's Athletic Footwear,38,123,4674,1542.42,Online
+West Gear,1128299,3/17/20,West,Nevada,Las Vegas,Women's Street Footwear,39,115,4485,2063.1,Online
+Foot Locker,1185732,3/17/20,Northeast,New York,New York,Men's Athletic Footwear,37,359,13283,4516.22,Outlet
+Foot Locker,1185732,3/17/20,Northeast,New York,New York,Men's Athletic Footwear,53,308,16324,6692.84,Online
+West Gear,1128299,3/17/20,West,Nevada,Las Vegas,Women's Street Footwear,26,128,3328,1397.76,Outlet
+Foot Locker,1185732,3/17/20,Northeast,New York,New York,Men's Athletic Footwear,55,1025,563750,169125,Outlet
+West Gear,1128299,3/17/20,West,Nevada,Las Vegas,Women's Street Footwear,40,425,170000,59500,In-store
+West Gear,1128299,3/18/20,West,Nevada,Las Vegas,Women's Athletic Footwear,38,72,2736,1231.2,Online
+Foot Locker,1185732,3/18/20,Northeast,New York,New York,Women's Street Footwear,37,314,11618,4298.66,Outlet
+Foot Locker,1185732,3/18/20,Northeast,New York,New York,Women's Street Footwear,45,257,11565,5319.9,Online
+West Gear,1128299,3/18/20,West,Nevada,Las Vegas,Women's Athletic Footwear,26,96,2496,848.64,Outlet
+West Gear,1128299,3/18/20,West,Nevada,Las Vegas,Women's Athletic Footwear,40,275,110000,33000,In-store
+Foot Locker,1185732,3/18/20,Northeast,New York,New York,Women's Street Footwear,50,950,475000,166250,Outlet
+West Gear,1128299,3/19/20,West,Colorado,Denver,Men's Apparel,41,56,2296,1469.44,Online
+West Gear,1128299,3/19/20,West,Colorado,Denver,Men's Apparel,45,225,101250,50625,In-store
+West Gear,1128299,3/20/20,West,Colorado,Denver,Women's Apparel,37,128,4736,1231.36,Online
+West Gear,1128299,3/20/20,West,Colorado,Denver,Women's Apparel,40,475,190000,28500,In-store
+West Gear,1128299,3/21/20,West,Colorado,Denver,Men's Street Footwear,27,131,3537,1697.76,Online
+West Gear,1128299,3/21/20,West,Colorado,Denver,Men's Street Footwear,30,525,157500,55125,In-store
+West Gear,1128299,3/22/20,West,Colorado,Denver,Men's Athletic Footwear,38,111,4218,1265.4,Online
+West Gear,1128299,3/22/20,West,Colorado,Denver,Men's Athletic Footwear,40,425,170000,34000,In-store
+West Gear,1128299,3/23/20,West,Colorado,Denver,Women's Street Footwear,38,123,4674,2337,Online
+West Gear,1128299,3/23/20,West,Colorado,Denver,Women's Street Footwear,40,425,170000,59500,In-store
+West Gear,1128299,3/24/20,West,Colorado,Denver,Women's Athletic Footwear,40,275,110000,33000,In-store
+West Gear,1128299,3/24/20,West,Colorado,Denver,Women's Athletic Footwear,36,72,2592,1166.4,Online
+West Gear,1128299,3/25/20,West,Colorado,Denver,Men's Apparel,45,200,90000,45000,In-store
+West Gear,1128299,3/25/20,West,Colorado,Denver,Men's Apparel,43,58,2494,1546.28,Online
+West Gear,1128299,3/26/20,West,Colorado,Denver,Women's Apparel,40,400,160000,24000,In-store
+West Gear,1128299,3/26/20,West,Colorado,Denver,Women's Apparel,37,116,4292,1158.84,Online
+West Gear,1128299,3/27/20,West,Colorado,Denver,Men's Street Footwear,40,550,220000,77000,In-store
+West Gear,1128299,3/27/20,West,Colorado,Denver,Men's Street Footwear,37,165,6105,2930.4,Online
+West Gear,1128299,3/28/20,West,Colorado,Denver,Men's Athletic Footwear,50,400,200000,40000,In-store
+West Gear,1128299,3/28/20,West,Colorado,Denver,Men's Athletic Footwear,48,112,5376,1827.84,Online
+West Gear,1128299,3/29/20,West,Colorado,Denver,Women's Street Footwear,51,116,5916,2898.84,Online
+West Gear,1128299,3/29/20,West,Colorado,Denver,Women's Street Footwear,55,400,220000,77000,In-store
+West Gear,1128299,3/30/20,West,Colorado,Denver,Women's Athletic Footwear,51,90,4590,1973.7,Online
+West Gear,1128299,3/30/20,West,Colorado,Denver,Women's Athletic Footwear,55,300,165000,49500,In-store
+West Gear,1128299,3/31/20,West,Colorado,Denver,Men's Apparel,56,39,2184,1310.4,Online
+West Gear,1128299,3/31/20,West,Colorado,Denver,Men's Apparel,60,150,90000,45000,In-store
+Foot Locker,1185732,3/31/20,Northeast,New York,New York,Women's Athletic Footwear,40,324,12960,5184,Outlet
+Foot Locker,1185732,3/31/20,Northeast,New York,New York,Women's Athletic Footwear,47,241,11327,5323.69,Online
+Foot Locker,1185732,3/31/20,Northeast,New York,New York,Women's Athletic Footwear,50,925,462500,161875,Outlet
+West Gear,1128299,4/1/20,West,Colorado,Denver,Women's Apparel,52,95,4940,1432.6,Online
+West Gear,1128299,4/1/20,West,Colorado,Denver,Women's Apparel,55,350,192500,28875,In-store
+West Gear,1128299,4/2/20,West,Colorado,Denver,Men's Street Footwear,55,131,7205,3386.35,Online
+West Gear,1128299,4/2/20,West,Colorado,Denver,Men's Street Footwear,60,525,315000,110250,In-store
+West Gear,1128299,4/3/20,West,Colorado,Denver,Men's Athletic Footwear,65,325,211250,42250,In-store
+West Gear,1128299,4/3/20,West,Colorado,Denver,Men's Athletic Footwear,59,94,5546,1941.1,Online
+West Gear,1128299,4/4/20,West,Colorado,Denver,Women's Street Footwear,61,113,6893,3446.5,Online
+West Gear,1128299,4/4/20,West,Colorado,Denver,Women's Street Footwear,65,375,243750,85312.5,In-store
+West Gear,1128299,4/5/20,West,Colorado,Denver,Women's Athletic Footwear,56,74,4144,1781.92,Online
+West Gear,1128299,4/5/20,West,Colorado,Denver,Women's Athletic Footwear,60,275,165000,49500,In-store
+West Gear,1128299,4/6/20,West,Colorado,Denver,Men's Apparel,65,175,113750,56875,In-store
+West Gear,1128299,4/6/20,West,Colorado,Denver,Men's Apparel,62,44,2728,1664.08,Online
+West Gear,1128299,4/7/20,West,Colorado,Denver,Women's Apparel,80,325,260000,39000,In-store
+West Gear,1128299,4/7/20,West,Colorado,Denver,Women's Apparel,72,98,7056,1764,Online
+West Gear,1128299,4/8/20,West,Colorado,Denver,Men's Street Footwear,55,131,7205,4395.05,Online
+West Gear,1128299,4/8/20,West,Colorado,Denver,Men's Street Footwear,60,525,315000,157500,In-store
+West Gear,1128299,4/9/20,West,Colorado,Denver,Men's Athletic Footwear,60,105,6300,2898,Online
+West Gear,1128299,4/9/20,West,Colorado,Denver,Men's Athletic Footwear,65,375,243750,85312.5,In-store
+West Gear,1128299,4/10/20,West,Colorado,Denver,Women's Street Footwear,65,375,243750,121875,In-store
+West Gear,1128299,4/10/20,West,Colorado,Denver,Women's Street Footwear,59,98,5782,3469.2,Online
+West Gear,1128299,4/11/20,West,Colorado,Denver,Women's Athletic Footwear,60,275,165000,74250,In-store
+West Gear,1128299,4/11/20,West,Colorado,Denver,Women's Athletic Footwear,58,69,4002,2361.18,Online
+West Gear,1128299,4/12/20,West,Colorado,Denver,Men's Apparel,63,44,2772,2106.72,Online
+West Gear,1128299,4/12/20,West,Colorado,Denver,Men's Apparel,65,175,113750,73937.5,In-store
+West Gear,1128299,4/13/20,West,Colorado,Denver,Women's Apparel,80,475,380000,114000,In-store
+West Gear,1128299,4/13/20,West,Colorado,Denver,Women's Apparel,74,133,9842,4232.06,Online
+West Gear,1128299,4/14/20,West,Colorado,Denver,Men's Street Footwear,54,189,10206,6531.84,Online
+West Gear,1128299,4/14/20,West,Colorado,Denver,Men's Street Footwear,60,725,435000,217500,In-store
+West Gear,1128299,4/15/20,West,Colorado,Denver,Men's Athletic Footwear,65,575,373750,130812.5,In-store
+West Gear,1128299,4/15/20,West,Colorado,Denver,Men's Athletic Footwear,59,144,8496,4248,Online
+West Gear,1128299,4/16/20,West,Colorado,Denver,Women's Street Footwear,65,575,373750,186875,In-store
+West Gear,1128299,4/16/20,West,Colorado,Denver,Women's Street Footwear,64,150,9600,6144,Online
+West Gear,1128299,4/17/20,West,Colorado,Denver,Women's Athletic Footwear,65,450,292500,131625,In-store
+Walmart,1185732,4/17/20,Northeast,New York,New York,Men's Apparel,54,270,14580,6561,Online
+Walmart,1185732,4/17/20,Northeast,New York,New York,Men's Apparel,60,900,540000,162000,Outlet
+Walmart,1185732,4/17/20,Northeast,New York,New York,Men's Apparel,43,279,11997,3959.01,Outlet
+West Gear,1128299,4/17/20,West,Colorado,Denver,Women's Athletic Footwear,62,135,8370,5022,Online
+West Gear,1128299,4/18/20,West,Colorado,Denver,Men's Apparel,66,91,6006,4624.62,Online
+Walmart,1185732,4/18/20,Northeast,New York,New York,Women's Apparel,48,355,17040,5112,Outlet
+Walmart,1185732,4/18/20,Northeast,New York,New York,Women's Apparel,62,290,17980,6652.6,Online
+Walmart,1185732,4/18/20,Northeast,New York,New York,Women's Apparel,65,1075,698750,174687.5,Outlet
+West Gear,1128299,4/18/20,West,Colorado,Denver,Men's Apparel,70,325,227500,147875,In-store
+Walmart,1185732,4/19/20,Northeast,New York,New York,Men's Street Footwear,56,360,20160,12499.2,Online
+West Gear,1128299,4/19/20,West,Colorado,Denver,Women's Apparel,83,181,15023,6459.89,Online
+West Gear,1128299,4/19/20,West,Colorado,Denver,Women's Apparel,85,625,531250,159375,In-store
+Walmart,1185732,4/19/20,Northeast,New York,New York,Men's Street Footwear,60,1200,720000,360000,Outlet
+Walmart,1185732,4/19/20,Northeast,New York,New York,Men's Street Footwear,39,408,15912,8751.6,Outlet
+Walmart,1185732,4/20/20,Northeast,New York,New York,Men's Athletic Footwear,43,350,15050,4966.5,Outlet
+Walmart,1185732,4/20/20,Northeast,New York,New York,Men's Athletic Footwear,50,270,13500,5940,Online
+Walmart,1185732,4/20/20,Northeast,New York,New York,Men's Athletic Footwear,55,1000,550000,165000,Outlet
+West Gear,1128299,4/20/20,West,Colorado,Denver,Men's Street Footwear,64,202,12928,7756.8,Online
+West Gear,1128299,4/20/20,West,Colorado,Denver,Men's Street Footwear,65,775,503750,226687.5,In-store
+Walmart,1185732,4/21/20,Northeast,New York,New York,Women's Street Footwear,36,315,11340,4422.6,Outlet
+West Gear,1128299,4/21/20,West,Colorado,Denver,Men's Athletic Footwear,70,625,437500,131250,In-store
+Walmart,1185732,4/21/20,Northeast,New York,New York,Women's Street Footwear,47,268,12596,5920.12,Online
+Walmart,1185732,4/21/20,Northeast,New York,New York,Women's Street Footwear,50,925,462500,161875,Outlet
+West Gear,1128299,4/21/20,West,Colorado,Denver,Men's Athletic Footwear,67,188,12596,5038.4,Online
+West Gear,1128299,4/22/20,West,Colorado,Denver,Women's Street Footwear,70,575,402500,181125,In-store
+West Gear,1128299,4/22/20,West,Colorado,Denver,Women's Street Footwear,67,161,10787,5932.85,Online
+Walmart,1185732,4/22/20,Northeast,New York,New York,Women's Athletic Footwear,47,252,11844,5448.24,Online
+Walmart,1185732,4/22/20,Northeast,New York,New York,Women's Athletic Footwear,34,306,10404,4057.56,Outlet
+Walmart,1185732,4/22/20,Northeast,New York,New York,Women's Athletic Footwear,50,900,450000,157500,Outlet
+West Gear,1128299,4/23/20,West,Colorado,Denver,Women's Athletic Footwear,65,475,308750,123500,In-store
+Walmart,1185732,4/23/20,Northeast,New York,New York,Men's Apparel,60,900,540000,162000,Outlet
+Walmart,1185732,4/23/20,Northeast,New York,New York,Men's Apparel,58,252,14616,5846.4,Online
+Walmart,1185732,4/23/20,Northeast,New York,New York,Men's Apparel,44,315,13860,5128.2,Outlet
+West Gear,1128299,4/23/20,West,Colorado,Denver,Women's Athletic Footwear,61,143,8723,4535.96,Online
+Foot Locker,1185732,4/24/20,Southeast,Florida,Miami,Men's Athletic Footwear,41,210,8610,4305,Online
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Men's Apparel,55,675,371250,129937.5,In-store
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Women's Athletic Footwear,40,650,260000,78000,In-store
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Women's Street Footwear,35,725,253750,63437.5,In-store
+Foot Locker,1185732,4/24/20,Southeast,Florida,Miami,Men's Athletic Footwear,45,725,326250,114187.5,In-store
+Walmart,1185732,4/24/20,Northeast,New York,New York,Women's Apparel,65,1000,650000,162500,Outlet
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Men's Athletic Footwear,54,194,10476,5238,Online
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Women's Athletic Footwear,49,175,8575,3687.25,Online
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Women's Apparel,45,800,360000,180000,In-store
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Men's Apparel,58,196,11368,5342.96,Online
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Women's Apparel,64,248,15872,10158.08,Online
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Men's Street Footwear,55,290,15950,9410.5,Online
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Men's Athletic Footwear,54,206,11124,5450.76,Online
+Foot Locker,1185732,4/24/20,Southeast,Florida,Miami,Men's Street Footwear,45,1025,461250,207562.5,In-store
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Women's Street Footwear,47,188,8836,3269.32,Online
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Men's Street Footwear,55,1070,588500,264825,In-store
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Women's Street Footwear,50,750,375000,93750,In-store
+Foot Locker,1185732,4/24/20,Southeast,Florida,Miami,Men's Street Footwear,42,256,10752,6236.16,Online
+West Gear,1128299,4/24/20,West,Colorado,Denver,Men's Apparel,70,525,367500,220500,In-store
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Women's Street Footwear,32,203,6496,2598.4,Online
+West Gear,1128299,4/24/20,West,Colorado,Denver,Men's Apparel,67,131,8777,6143.9,Online
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Women's Athletic Footwear,38,189,7182,3231.9,Online
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Men's Apparel,52,196,10192,4586.4,Online
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Men's Athletic Footwear,55,775,426250,149187.5,In-store
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Men's Street Footwear,52,300,15600,8736,Online
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Men's Athletic Footwear,55,825,453750,158812.5,In-store
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Men's Street Footwear,60,1075,645000,290250,In-store
+Walmart,1185732,4/24/20,Northeast,New York,New York,Women's Apparel,59,280,16520,6608,Online
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Women's Apparel,65,825,536250,268125,In-store
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Men's Apparel,60,725,435000,152250,In-store
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Women's Athletic Footwear,50,700,350000,105000,In-store
+Walmart,1185732,4/24/20,Northeast,New York,New York,Women's Apparel,45,350,15750,4725,Outlet
+West Gear,1185732,4/24/20,Southeast,Florida,Miami,Women's Apparel,44,208,9152,5491.2,Online
+West Gear,1128299,4/25/20,West,Colorado,Denver,Women's Apparel,78,137,10686,4274.4,Online
+Walmart,1185732,4/25/20,Northeast,New York,New York,Men's Apparel,64,236,15104,6343.68,Online
+West Gear,1128299,4/25/20,West,Colorado,Denver,Women's Apparel,85,525,446250,111562.5,In-store
+Walmart,1185732,4/25/20,Northeast,New York,New York,Men's Apparel,51,289,14739,4716.48,Outlet
+Walmart,1185732,4/25/20,Northeast,New York,New York,Men's Apparel,65,875,568750,170625,Outlet
+Walmart,1185732,4/26/20,Northeast,New York,New York,Women's Apparel,50,330,16500,4620,Outlet
+West Gear,1128299,4/26/20,West,Colorado,Denver,Men's Street Footwear,63,196,12348,7285.32,Online
+Walmart,1185732,4/26/20,Northeast,New York,New York,Women's Apparel,68,290,19720,7493.6,Online
+West Gear,1128299,4/26/20,West,Colorado,Denver,Men's Street Footwear,70,725,507500,228375,In-store
+Walmart,1185732,4/26/20,Northeast,New York,New York,Women's Apparel,70,1000,700000,175000,Outlet
+Walmart,1185732,4/27/20,Northeast,New York,New York,Men's Street Footwear,65,1150,747500,373750,Outlet
+Walmart,1185732,4/27/20,Northeast,New York,New York,Men's Street Footwear,60,299,17940,10764,Online
+West Gear,1128299,4/27/20,West,Colorado,Denver,Men's Athletic Footwear,73,189,13797,5794.74,Online
+West Gear,1128299,4/27/20,West,Colorado,Denver,Men's Athletic Footwear,75,675,506250,151875,In-store
+Walmart,1185732,4/27/20,Northeast,New York,New York,Men's Street Footwear,46,403,18538,10381.28,Outlet
+Walmart,1185732,4/28/20,Northeast,New York,New York,Men's Athletic Footwear,40,312,12480,4492.8,Outlet
+West Gear,1128299,4/28/20,West,Colorado,Denver,Women's Street Footwear,67,143,9581,5461.17,Online
+West Gear,1128299,4/28/20,West,Colorado,Denver,Women's Street Footwear,70,550,385000,173250,In-store
+Walmart,1185732,4/28/20,Northeast,New York,New York,Men's Athletic Footwear,55,975,536250,160875,Outlet
+Walmart,1185732,4/28/20,Northeast,New York,New York,Men's Athletic Footwear,53,273,14469,6221.67,Online
+Walmart,1185732,4/29/20,Northeast,New York,New York,Women's Street Footwear,55,920,506000,177100,Outlet
+Walmart,1185732,4/29/20,Northeast,New York,New York,Women's Street Footwear,52,258,13416,6439.68,Online
+West Gear,1128299,4/29/20,West,Colorado,Denver,Women's Athletic Footwear,63,135,8505,4592.7,Online
+West Gear,1128299,4/29/20,West,Colorado,Denver,Women's Athletic Footwear,70,500,350000,140000,In-store
+Walmart,1185732,4/29/20,Northeast,New York,New York,Women's Street Footwear,43,294,12642,5309.64,Outlet
+West Gear,1128299,4/30/20,West,Colorado,Denver,Men's Apparel,75,500,375000,225000,In-store
+Walmart,1185732,4/30/20,Northeast,New York,New York,Women's Athletic Footwear,55,900,495000,173250,Outlet
+Walmart,1185732,4/30/20,Northeast,New York,New York,Women's Athletic Footwear,41,270,11070,4095.9,Outlet
+Walmart,1185732,4/30/20,Northeast,New York,New York,Women's Athletic Footwear,50,252,12600,6174,Online
+West Gear,1128299,4/30/20,West,Colorado,Denver,Men's Apparel,74,140,10360,7562.8,Online
+Walmart,1185732,5/1/20,Northeast,New York,New York,Men's Apparel,65,875,568750,170625,Outlet
+Walmart,1185732,5/1/20,Northeast,New York,New York,Men's Apparel,64,254,16256,6827.52,Online
+West Gear,1128299,5/1/20,West,Colorado,Denver,Women's Apparel,80,400,320000,80000,In-store
+Walmart,1185732,5/1/20,Northeast,New York,New York,Men's Apparel,47,280,13160,4737.6,Outlet
+West Gear,1128299,5/1/20,West,Colorado,Denver,Women's Apparel,74,100,7400,2590,Online
+West Gear,1128299,5/2/20,West,Colorado,Denver,Men's Street Footwear,59,162,9558,5065.74,Online
+West Gear,1128299,5/2/20,West,Colorado,Denver,Men's Street Footwear,65,600,390000,156000,In-store
+Walmart,1185732,5/2/20,Northeast,New York,New York,Women's Apparel,53,322,17066,4778.48,Outlet
+Walmart,1185732,5/2/20,Northeast,New York,New York,Women's Apparel,66,263,17358,6422.46,Online
+Walmart,1185732,5/2/20,Northeast,New York,New York,Women's Apparel,70,975,682500,170625,Outlet
+West Gear,1128299,5/3/20,West,Colorado,Denver,Men's Athletic Footwear,69,168,11592,4173.12,Online
+Walmart,1185732,5/3/20,Northeast,New York,New York,Men's Street Footwear,48,420,20160,11289.6,Outlet
+West Gear,1128299,5/3/20,West,Colorado,Denver,Men's Athletic Footwear,70,600,420000,105000,In-store
+Walmart,1185732,5/3/20,Northeast,New York,New York,Men's Street Footwear,62,312,19344,12380.16,Online
+Walmart,1185732,5/3/20,Northeast,New York,New York,Men's Street Footwear,65,1200,780000,390000,Outlet
+Walmart,1185732,5/4/20,Northeast,New York,New York,Men's Athletic Footwear,55,1000,550000,165000,Outlet
+West Gear,1128299,5/4/20,West,Colorado,Denver,Women's Street Footwear,60,113,6780,3390,Online
+West Gear,1128299,5/4/20,West,Colorado,Denver,Women's Street Footwear,65,450,292500,117000,In-store
+Walmart,1185732,5/4/20,Northeast,New York,New York,Men's Athletic Footwear,51,300,15300,6426,Online
+Walmart,1185732,5/4/20,Northeast,New York,New York,Men's Athletic Footwear,43,310,13330,4665.5,Outlet
+West Gear,1128299,5/5/20,West,Colorado,Denver,Women's Athletic Footwear,59,100,5900,2832,Online
+Walmart,1185732,5/5/20,Northeast,New York,New York,Women's Street Footwear,54,285,15390,7233.3,Online
+West Gear,1128299,5/5/20,West,Colorado,Denver,Women's Athletic Footwear,65,400,260000,91000,In-store
+Walmart,1185732,5/5/20,Northeast,New York,New York,Women's Street Footwear,55,950,522500,182875,Outlet
+Walmart,1185732,5/5/20,Northeast,New York,New York,Women's Street Footwear,42,333,13986,5594.4,Outlet
+Walmart,1185732,5/6/20,Northeast,New York,New York,Women's Athletic Footwear,41,306,12546,5018.4,Outlet
+Walmart,1185732,5/6/20,Northeast,New York,New York,Women's Athletic Footwear,55,900,495000,173250,Outlet
+Walmart,1185732,5/6/20,Northeast,New York,New York,Women's Athletic Footwear,54,225,12150,5589,Online
+West Gear,1128299,5/6/20,West,Colorado,Denver,Men's Apparel,75,400,300000,165000,In-store
+West Gear,1128299,5/6/20,West,Colorado,Denver,Men's Apparel,74,120,8880,6127.2,Online
+Walmart,1185732,5/7/20,Northeast,New York,New York,Men's Apparel,60,261,15660,6733.8,Online
+West Gear,1128299,5/7/20,West,Colorado,Denver,Women's Apparel,65,106,6890,2135.9,Online
+West Gear,1128299,5/7/20,West,Colorado,Denver,Women's Apparel,70,425,297500,59500,In-store
+Walmart,1185732,5/7/20,Northeast,New York,New York,Men's Apparel,48,279,13392,4955.04,Outlet
+Walmart,1185732,5/7/20,Northeast,New York,New York,Men's Apparel,65,900,585000,175500,Outlet
+West Gear,1128299,5/8/20,West,Colorado,Denver,Men's Street Footwear,51,137,6987,3493.5,Online
+West Gear,1128299,5/8/20,West,Colorado,Denver,Men's Street Footwear,55,525,288750,115500,In-store
+West Gear,1128299,5/9/20,West,Colorado,Denver,Men's Athletic Footwear,60,525,315000,78750,In-store
+West Gear,1128299,5/9/20,West,Colorado,Denver,Men's Athletic Footwear,54,152,8208,2872.8,Online
+West Gear,1128299,5/10/20,West,Colorado,Denver,Women's Street Footwear,55,350,192500,77000,In-store
+West Gear,1128299,5/10/20,West,Colorado,Denver,Women's Street Footwear,51,102,5202,2601,Online
+West Gear,1128299,5/11/20,West,Colorado,Denver,Women's Athletic Footwear,53,85,4505,2072.3,Online
+West Gear,1128299,5/11/20,West,Colorado,Denver,Women's Athletic Footwear,55,325,178750,62562.5,In-store
+West Gear,1128299,5/12/20,West,Colorado,Denver,Men's Apparel,64,75,4800,3168,Online
+West Gear,1128299,5/12/20,West,Colorado,Denver,Men's Apparel,65,300,195000,107250,In-store
+West Gear,1128299,5/13/20,West,Colorado,Denver,Women's Apparel,65,105,6825,2047.5,Online
+West Gear,1128299,5/13/20,West,Colorado,Denver,Women's Apparel,70,350,245000,49000,In-store
+West Gear,1128299,5/14/20,West,Colorado,Denver,Men's Street Footwear,52,150,7800,4290,Online
+West Gear,1128299,5/14/20,West,Colorado,Denver,Men's Street Footwear,55,575,316250,126500,In-store
+West Gear,1128299,5/15/20,West,Colorado,Denver,Men's Athletic Footwear,60,575,345000,86250,In-store
+West Gear,1128299,5/15/20,West,Colorado,Denver,Men's Athletic Footwear,55,150,8250,3052.5,Online
+West Gear,1128299,5/16/20,West,Colorado,Denver,Women's Street Footwear,51,128,6528,3459.84,Online
+West Gear,1128299,5/16/20,West,Colorado,Denver,Women's Street Footwear,55,425,233750,93500,In-store
+West Gear,1128299,5/17/20,West,Colorado,Denver,Women's Athletic Footwear,65,400,260000,91000,In-store
+West Gear,1128299,5/17/20,West,Colorado,Denver,Women's Athletic Footwear,60,116,6960,3340.8,Online
+West Gear,1128299,5/18/20,West,Colorado,Denver,Men's Apparel,75,375,281250,154687.5,In-store
+West Gear,1128299,5/18/20,West,Colorado,Denver,Men's Apparel,68,105,7140,4926.6,Online
+West Gear,1128299,5/19/20,West,Colorado,Denver,Women's Apparel,80,500,400000,80000,In-store
+West Gear,1128299,5/19/20,West,Colorado,Denver,Women's Apparel,73,130,9490,2941.9,Online
+West Gear,1128299,5/20/20,West,Colorado,Denver,Men's Street Footwear,59,203,11977,6228.04,Online
+West Gear,1128299,5/20/20,West,Colorado,Denver,Men's Street Footwear,65,700,455000,182000,In-store
+West Gear,1128299,5/21/20,West,Colorado,Denver,Men's Athletic Footwear,70,700,490000,122500,In-store
+West Gear,1128299,5/21/20,West,Colorado,Denver,Men's Athletic Footwear,64,182,11648,4426.24,Online
+West Gear,1128299,5/22/20,West,Colorado,Denver,Women's Street Footwear,60,125,7500,4125,Online
+West Gear,1128299,5/22/20,West,Colorado,Denver,Women's Street Footwear,65,500,325000,130000,In-store
+West Gear,1128299,5/23/20,West,Colorado,Denver,Women's Athletic Footwear,63,125,7875,3543.75,Online
+West Gear,1128299,5/23/20,West,Colorado,Denver,Women's Athletic Footwear,65,500,325000,113750,In-store
+West Gear,1128299,5/24/20,West,Colorado,Denver,Men's Apparel,68,115,7820,5239.4,Online
+West Gear,1128299,5/24/20,West,Colorado,Denver,Men's Apparel,75,425,318750,175312.5,In-store
+Foot Locker,1185732,5/24/20,Southeast,Florida,Miami,Women's Apparel,70,875,612500,306250,In-store
+Sports Direct,1185732,5/24/20,Southeast,Florida,Miami,Women's Athletic Footwear,55,775,426250,127875,In-store
+Sports Direct,1185732,5/24/20,Southeast,Florida,Miami,Women's Street Footwear,55,825,453750,113437.5,In-store
+Sports Direct,1185732,5/24/20,Southeast,Florida,Miami,Men's Athletic Footwear,55,875,481250,168437.5,In-store
+Foot Locker,1185732,5/24/20,Southeast,Florida,Miami,Men's Apparel,65,775,503750,176312.5,In-store
+Sports Direct,1185732,5/24/20,Southeast,Florida,Miami,Men's Street Footwear,63,323,20349,11395.44,Online
+Sports Direct,1185732,5/24/20,Southeast,Florida,Miami,Men's Athletic Footwear,51,254,12954,6088.38,Online
+Sports Direct,1185732,5/24/20,Southeast,Florida,Miami,Women's Street Footwear,52,248,12896,4771.52,Online
+Sports Direct,1185732,5/24/20,Southeast,Florida,Miami,Women's Athletic Footwear,54,209,11286,4852.98,Online
+Foot Locker,1185732,5/24/20,Southeast,Florida,Miami,Men's Apparel,60,202,12120,5938.8,Online
+Foot Locker,1185732,5/24/20,Southeast,Florida,Miami,Women's Apparel,64,219,14016,8830.08,Online
+Sports Direct,1185732,5/24/20,Southeast,Florida,Miami,Men's Street Footwear,65,1075,698750,314437.5,In-store
+West Gear,1128299,5/25/20,West,Colorado,Denver,Women's Apparel,75,137,10275,3390.75,Online
+West Gear,1128299,5/25/20,West,Colorado,Denver,Women's Apparel,80,525,420000,84000,In-store
+West Gear,1128299,5/26/20,West,Colorado,Denver,Men's Street Footwear,40,450,180000,54000,In-store
+West Gear,1128299,5/26/20,West,Colorado,Denver,Men's Street Footwear,36,117,4212,1726.92,Online
+West Gear,1128299,5/27/20,West,Colorado,Denver,Men's Athletic Footwear,48,131,6288,2515.2,Online
+West Gear,1128299,5/27/20,West,Colorado,Denver,Men's Athletic Footwear,50,450,225000,56250,In-store
+West Gear,1128299,5/28/20,West,Colorado,Denver,Women's Street Footwear,50,450,225000,56250,In-store
+West Gear,1128299,5/28/20,West,Colorado,Denver,Women's Street Footwear,46,135,6210,2173.5,Online
+West Gear,1128299,5/29/20,West,Colorado,Denver,Women's Athletic Footwear,49,78,3822,1567.02,Online
+West Gear,1128299,5/29/20,West,Colorado,Denver,Women's Athletic Footwear,50,300,150000,45000,In-store
+West Gear,1128299,5/30/20,West,Washington,Seattle,Men's Apparel,55,250,137500,34375,In-store
+West Gear,1128299,5/30/20,West,Washington,Seattle,Men's Apparel,51,73,3723,1451.97,Online
+West Gear,1128299,5/31/20,West,Washington,Seattle,Women's Apparel,50,500,250000,50000,In-store
+West Gear,1128299,5/31/20,West,Washington,Seattle,Women's Apparel,46,125,5750,1782.5,Online
+West Gear,1128299,6/1/20,West,Washington,Seattle,Men's Street Footwear,36,138,4968,2136.24,Online
+West Gear,1128299,6/1/20,West,Washington,Seattle,Men's Street Footwear,40,550,220000,66000,In-store
+West Gear,1128299,6/2/20,West,Washington,Seattle,Men's Athletic Footwear,47,131,6157,2401.23,Online
+West Gear,1128299,6/2/20,West,Washington,Seattle,Men's Athletic Footwear,50,450,225000,56250,In-store
+West Gear,1128299,6/3/20,West,Washington,Seattle,Women's Street Footwear,50,450,225000,56250,In-store
+West Gear,1128299,6/3/20,West,Washington,Seattle,Women's Street Footwear,47,122,5734,2236.26,Online
+West Gear,1128299,6/4/20,West,Washington,Seattle,Women's Athletic Footwear,50,300,150000,45000,In-store
+West Gear,1128299,6/4/20,West,Washington,Seattle,Women's Athletic Footwear,48,87,4176,1753.92,Online
+West Gear,1128299,6/5/20,West,Washington,Seattle,Men's Apparel,55,225,123750,30937.5,In-store
+West Gear,1128299,6/5/20,West,Washington,Seattle,Men's Apparel,52,65,3380,1352,Online
+West Gear,1128299,6/6/20,West,Washington,Seattle,Women's Apparel,46,123,5658,1753.98,Online
+West Gear,1128299,6/6/20,West,Washington,Seattle,Women's Apparel,50,425,212500,42500,In-store
+West Gear,1128299,6/7/20,West,Washington,Seattle,Men's Street Footwear,46,167,7682,3456.9,Online
+West Gear,1128299,6/7/20,West,Washington,Seattle,Men's Street Footwear,50,575,287500,86250,In-store
+West Gear,1128299,6/8/20,West,Washington,Seattle,Men's Athletic Footwear,60,425,255000,63750,In-store
+West Gear,1128299,6/8/20,West,Washington,Seattle,Men's Athletic Footwear,58,115,6670,2401.2,Online
+West Gear,1128299,6/9/20,West,Washington,Seattle,Women's Street Footwear,60,115,6900,2760,Online
+West Gear,1128299,6/9/20,West,Washington,Seattle,Women's Street Footwear,65,425,276250,69062.5,In-store
+West Gear,1128299,6/10/20,West,Washington,Seattle,Women's Athletic Footwear,64,85,5440,2284.8,Online
+West Gear,1128299,6/10/20,West,Washington,Seattle,Women's Athletic Footwear,65,325,211250,63375,In-store
+West Gear,1128299,6/11/20,West,Washington,Seattle,Men's Apparel,69,46,3174,1206.12,Online
+West Gear,1128299,6/11/20,West,Washington,Seattle,Men's Apparel,70,175,122500,30625,In-store
+West Gear,1128299,6/12/20,West,Washington,Seattle,Women's Apparel,62,105,6510,2213.4,Online
+West Gear,1128299,6/12/20,West,Washington,Seattle,Women's Apparel,65,375,243750,48750,In-store
+West Gear,1128299,6/13/20,West,Washington,Seattle,Men's Street Footwear,68,160,10880,4787.2,Online
+West Gear,1128299,6/13/20,West,Washington,Seattle,Men's Street Footwear,70,550,385000,115500,In-store
+West Gear,1128299,6/14/20,West,Washington,Seattle,Men's Athletic Footwear,75,350,262500,65625,In-store
+West Gear,1128299,6/14/20,West,Washington,Seattle,Men's Athletic Footwear,71,88,6248,2436.72,Online
+West Gear,1128299,6/15/20,West,Washington,Seattle,Women's Street Footwear,75,400,300000,75000,In-store
+West Gear,1128299,6/15/20,West,Washington,Seattle,Women's Street Footwear,74,120,8880,3463.2,Online
+West Gear,1128299,6/16/20,West,Washington,Seattle,Women's Athletic Footwear,60,300,180000,54000,In-store
+West Gear,1128299,6/16/20,West,Washington,Seattle,Women's Athletic Footwear,55,90,4950,2079,Online
+West Gear,1128299,6/17/20,West,Washington,Seattle,Men's Apparel,65,200,130000,32500,In-store
+West Gear,1128299,6/17/20,West,Washington,Seattle,Men's Apparel,59,56,3304,1321.6,Online
+West Gear,1128299,6/18/20,West,Washington,Seattle,Women's Apparel,80,350,280000,56000,In-store
+West Gear,1128299,6/18/20,West,Washington,Seattle,Women's Apparel,78,88,6864,2196.48,Online
+West Gear,1128299,6/19/20,West,Washington,Seattle,Men's Street Footwear,60,550,330000,99000,In-store
+West Gear,1128299,6/19/20,West,Washington,Seattle,Men's Street Footwear,55,165,9075,3720.75,Online
+West Gear,1128299,6/20/20,West,Washington,Seattle,Men's Athletic Footwear,65,400,260000,65000,In-store
+West Gear,1128299,6/20/20,West,Washington,Seattle,Men's Athletic Footwear,60,108,6480,2462.4,Online
+West Gear,1128299,6/21/20,West,Washington,Seattle,Women's Street Footwear,65,400,260000,65000,In-store
+West Gear,1128299,6/21/20,West,Washington,Seattle,Women's Street Footwear,61,120,7320,2781.6,Online
+West Gear,1128299,6/22/20,West,Washington,Seattle,Women's Athletic Footwear,59,90,5310,2336.4,Online
+West Gear,1128299,6/22/20,West,Washington,Seattle,Women's Athletic Footwear,60,300,180000,54000,In-store
+West Gear,1128299,6/23/20,West,Washington,Seattle,Men's Apparel,60,52,3120,1185.6,Online
+West Gear,1128299,6/23/20,West,Washington,Seattle,Men's Apparel,65,200,130000,32500,In-store
+West Gear,1128299,6/24/20,West,Washington,Seattle,Women's Apparel,75,125,9375,3093.75,Online
+West Gear,1128299,6/24/20,West,Washington,Seattle,Women's Apparel,80,500,400000,80000,In-store
+West Gear,1128299,6/25/20,West,Washington,Seattle,Men's Street Footwear,75,750,562500,168750,In-store
+West Gear,1128299,6/25/20,West,Washington,Seattle,Men's Street Footwear,71,195,13845,5814.9,Online
+West Gear,1128299,6/26/20,West,Washington,Seattle,Men's Athletic Footwear,74,188,13912,5147.44,Online
+West Gear,1128299,6/26/20,West,Washington,Seattle,Men's Athletic Footwear,80,625,500000,125000,In-store
+West Gear,1128299,6/27/20,West,Washington,Seattle,Women's Street Footwear,80,625,500000,125000,In-store
+West Gear,1128299,6/27/20,West,Washington,Seattle,Women's Street Footwear,72,163,11736,4459.68,Online
+West Gear,1128299,6/28/20,West,Washington,Seattle,Women's Athletic Footwear,75,125,9375,3750,Online
+West Gear,1128299,6/28/20,West,Washington,Seattle,Women's Athletic Footwear,80,500,400000,120000,In-store
+West Gear,1128299,6/29/20,West,Washington,Seattle,Men's Apparel,82,105,8610,3357.9,Online
+West Gear,1128299,6/29/20,West,Washington,Seattle,Men's Apparel,85,375,318750,79687.5,In-store
+West Gear,1128299,6/30/20,West,Washington,Seattle,Women's Apparel,98,182,17836,6064.24,Online
+West Gear,1128299,6/30/20,West,Washington,Seattle,Women's Apparel,100,675,675000,135000,In-store
+West Gear,1128299,7/1/20,West,Washington,Seattle,Men's Street Footwear,80,825,660000,198000,In-store
+West Gear,1128299,7/1/20,West,Washington,Seattle,Men's Street Footwear,73,239,17447,6978.8,Online
+West Gear,1128299,7/2/20,West,Washington,Seattle,Men's Athletic Footwear,82,182,14924,5372.64,Online
+West Gear,1128299,7/2/20,West,Washington,Seattle,Men's Athletic Footwear,85,675,573750,143437.5,In-store
+West Gear,1128299,7/3/20,West,Washington,Seattle,Women's Street Footwear,85,625,531250,132812.5,In-store
+West Gear,1128299,7/3/20,West,Washington,Seattle,Women's Street Footwear,78,175,13650,4777.5,Online
+West Gear,1128299,7/4/20,West,Washington,Seattle,Women's Athletic Footwear,80,525,420000,126000,In-store
+West Gear,1128299,7/4/20,West,Washington,Seattle,Women's Athletic Footwear,78,137,10686,4381.26,Online
+West Gear,1128299,7/5/20,West,Washington,Seattle,Men's Apparel,85,575,488750,122187.5,In-store
+West Gear,1128299,7/5/20,West,Washington,Seattle,Men's Apparel,77,144,11088,3880.8,Online
+West Gear,1128299,7/6/20,West,Washington,Seattle,Women's Apparel,95,155,14725,5153.75,Online
+West Gear,1128299,7/6/20,West,Washington,Seattle,Women's Apparel,100,575,575000,115000,In-store
+West Gear,1128299,7/7/20,West,Washington,Seattle,Men's Street Footwear,85,775,658750,197625,In-store
+West Gear,1128299,7/7/20,West,Washington,Seattle,Men's Street Footwear,80,217,17360,7812,Online
+West Gear,1128299,7/8/20,West,Washington,Seattle,Men's Athletic Footwear,80,750,600000,150000,In-store
+West Gear,1128299,7/8/20,West,Washington,Seattle,Men's Athletic Footwear,77,210,16170,6306.3,Online
+West Gear,1128299,7/9/20,West,Washington,Seattle,Women's Street Footwear,75,625,468750,117187.5,In-store
+West Gear,1128299,7/9/20,West,Washington,Seattle,Women's Street Footwear,73,163,11899,4164.65,Online
+West Gear,1128299,7/10/20,West,Washington,Seattle,Women's Athletic Footwear,74,155,11470,5046.8,Online
+West Gear,1128299,7/10/20,West,Washington,Seattle,Women's Athletic Footwear,75,575,431250,129375,In-store
+West Gear,1128299,7/11/20,West,Washington,Seattle,Men's Apparel,71,155,11005,4291.95,Online
+West Gear,1128299,7/11/20,West,Washington,Seattle,Men's Apparel,75,575,431250,107812.5,In-store
+West Gear,1128299,7/12/20,West,Washington,Seattle,Women's Apparel,76,108,8208,2708.64,Online
+West Gear,1128299,7/12/20,West,Washington,Seattle,Women's Apparel,80,400,320000,64000,In-store
+West Gear,1128299,7/13/20,West,Washington,Seattle,Men's Street Footwear,64,156,9984,4093.44,Online
+West Gear,1128299,7/13/20,West,Washington,Seattle,Men's Street Footwear,70,600,420000,126000,In-store
+West Gear,1128299,7/14/20,West,Washington,Seattle,Men's Athletic Footwear,71,174,12354,4323.9,Online
+West Gear,1128299,7/14/20,West,Washington,Seattle,Men's Athletic Footwear,75,600,450000,112500,In-store
+West Gear,1128299,7/15/20,West,Washington,Seattle,Women's Street Footwear,63,135,8505,3146.85,Online
+West Gear,1128299,7/15/20,West,Washington,Seattle,Women's Street Footwear,70,450,315000,78750,In-store
+West Gear,1128299,7/16/20,West,Washington,Seattle,Women's Athletic Footwear,67,112,7504,3001.6,Online
+West Gear,1128299,7/16/20,West,Washington,Seattle,Women's Athletic Footwear,70,400,280000,84000,In-store
+West Gear,1128299,7/17/20,West,Washington,Seattle,Men's Apparel,72,111,7992,3196.8,Online
+West Gear,1128299,7/17/20,West,Washington,Seattle,Men's Apparel,80,425,340000,85000,In-store
+West Gear,1128299,7/18/20,West,Washington,Seattle,Women's Apparel,62,113,7006,2452.1,Online
+Walmart,1185732,7/18/20,Northeast,New York,New York,Women's Apparel,70,1000,700000,175000,Outlet
+Walmart,1185732,7/18/20,Northeast,New York,New York,Women's Apparel,48,340,16320,4896,Outlet
+Walmart,1185732,7/18/20,Northeast,New York,New York,Women's Apparel,68,290,19720,6902,Online
+West Gear,1128299,7/18/20,West,Washington,Seattle,Women's Apparel,65,450,292500,58500,In-store
+Sports Direct,1197831,7/19/20,Northeast,New York,New York,Men's Street Footwear,24,234,5616,2639.52,Online
+West Gear,1128299,7/19/20,West,Washington,Seattle,Men's Street Footwear,60,550,330000,99000,In-store
+Sports Direct,1197831,7/19/20,Northeast,New York,New York,Men's Street Footwear,20,270,5400,2106,Outlet
+Sports Direct,1197831,7/19/20,Northeast,New York,New York,Men's Street Footwear,25,900,225000,78750,Outlet
+West Gear,1128299,7/19/20,West,Washington,Seattle,Men's Street Footwear,58,149,8642,3456.8,Online
+Sports Direct,1197831,7/20/20,Northeast,New York,New York,Men's Athletic Footwear,26,270,7020,2597.4,Outlet
+Sports Direct,1197831,7/20/20,Northeast,New York,New York,Men's Athletic Footwear,35,900,315000,110250,Outlet
+West Gear,1128299,7/20/20,West,Washington,Seattle,Men's Athletic Footwear,64,138,8832,3267.84,Online
+West Gear,1128299,7/20/20,West,Washington,Seattle,Men's Athletic Footwear,65,550,357500,89375,In-store
+Sports Direct,1197831,7/20/20,Northeast,New York,New York,Men's Athletic Footwear,34,225,7650,3748.5,Online
+West Gear,1128299,7/21/20,West,Washington,Seattle,Women's Street Footwear,60,375,225000,56250,In-store
+Sports Direct,1197831,7/21/20,Northeast,New York,New York,Women's Street Footwear,35,700,245000,85750,Outlet
+Sports Direct,1197831,7/21/20,Northeast,New York,New York,Women's Street Footwear,33,210,6930,3187.8,Online
+Sports Direct,1197831,7/21/20,Northeast,New York,New York,Women's Street Footwear,27,238,6426,2506.14,Outlet
+West Gear,1128299,7/21/20,West,Washington,Seattle,Women's Street Footwear,56,113,6328,2278.08,Online
+West Gear,1128299,7/22/20,West,Washington,Seattle,Women's Athletic Footwear,60,350,210000,63000,In-store
+Sports Direct,1197831,7/22/20,Northeast,New York,New York,Women's Athletic Footwear,34,175,5950,3272.5,Online
+Sports Direct,1197831,7/22/20,Northeast,New York,New York,Women's Athletic Footwear,35,700,245000,110250,Outlet
+Sports Direct,1197831,7/22/20,Northeast,New York,New York,Women's Athletic Footwear,27,210,5670,2948.4,Outlet
+West Gear,1128299,7/22/20,West,Washington,Seattle,Women's Athletic Footwear,58,98,5684,2500.96,Online
+Sports Direct,1197831,7/23/20,South,Texas,Houston,Men's Apparel,26,176,4576,1555.84,Outlet
+West Gear,1128299,7/23/20,West,Washington,Seattle,Men's Apparel,69,94,6486,2270.1,Online
+Sports Direct,1197831,7/23/20,South,Texas,Houston,Men's Apparel,40,550,220000,66000,Outlet
+West Gear,1128299,7/23/20,West,Washington,Seattle,Men's Apparel,70,325,227500,56875,In-store
+Sports Direct,1197831,7/23/20,South,Texas,Houston,Men's Apparel,36,154,5544,2383.92,Online
+Sports Direct,1197831,7/24/20,South,Texas,Houston,Women's Apparel,34,203,6902,4417.28,Online
+Sports Direct,1197831,7/24/20,South,Texas,Houston,Women's Apparel,25,224,5600,3136,Outlet
+West Gear,1128299,7/24/20,West,Washington,Seattle,Women's Apparel,71,101,7171,2509.85,Online
+West Gear,1128299,7/24/20,West,Washington,Seattle,Women's Apparel,75,375,281250,56250,In-store
+Sports Direct,1197831,7/24/20,South,Texas,Houston,Women's Apparel,35,700,245000,122500,Outlet
+Sports Direct,1197831,7/25/20,South,Texas,Houston,Men's Street Footwear,25,850,212500,74375,Outlet
+West Gear,1128299,7/25/20,West,Washington,Seattle,Men's Street Footwear,60,600,360000,108000,In-store
+Sports Direct,1197831,7/25/20,South,Texas,Houston,Men's Street Footwear,20,255,5100,2091,Outlet
+West Gear,1128299,7/25/20,West,Washington,Seattle,Men's Street Footwear,54,162,8748,3849.12,Online
+Sports Direct,1197831,7/25/20,South,Texas,Houston,Men's Street Footwear,23,213,4899,2449.5,Online
+Sports Direct,1197831,7/26/20,South,Texas,Houston,Men's Athletic Footwear,23,289,6647,2791.74,Outlet
+West Gear,1128299,7/26/20,West,Washington,Seattle,Men's Athletic Footwear,60,188,11280,4173.6,Online
+West Gear,1128299,7/26/20,West,Washington,Seattle,Men's Athletic Footwear,65,625,406250,101562.5,In-store
+Sports Direct,1197831,7/26/20,South,Texas,Houston,Men's Athletic Footwear,35,850,297500,104125,Outlet
+Sports Direct,1197831,7/26/20,South,Texas,Houston,Men's Athletic Footwear,33,255,8415,3786.75,Online
+West Gear,1128299,7/27/20,West,Washington,Seattle,Women's Street Footwear,54,124,6696,2477.52,Online
+Sports Direct,1197831,7/27/20,South,Texas,Houston,Women's Street Footwear,35,675,236250,82687.5,Outlet
+West Gear,1128299,7/27/20,West,Washington,Seattle,Women's Street Footwear,60,475,285000,71250,In-store
+Sports Direct,1197831,7/27/20,South,Texas,Houston,Women's Street Footwear,32,176,5632,2534.4,Online
+Sports Direct,1197831,7/27/20,South,Texas,Houston,Women's Street Footwear,27,236,6372,2612.52,Outlet
+West Gear,1128299,7/28/20,West,Washington,Seattle,Women's Athletic Footwear,70,450,315000,94500,In-store
+Sports Direct,1197831,7/28/20,South,Texas,Houston,Women's Athletic Footwear,34,175,5950,3570,Online
+Sports Direct,1197831,7/28/20,South,Texas,Houston,Women's Athletic Footwear,26,213,5538,2769,Outlet
+West Gear,1128299,7/28/20,West,Washington,Seattle,Women's Athletic Footwear,69,117,8073,3471.39,Online
+Sports Direct,1197831,7/28/20,South,Texas,Houston,Women's Athletic Footwear,35,625,218750,98437.5,Outlet
+Sports Direct,1197831,7/29/20,South,Texas,Houston,Men's Apparel,28,160,4480,1478.4,Outlet
+West Gear,1128299,7/29/20,West,Washington,Seattle,Men's Apparel,85,115,9775,3910,Online
+Sports Direct,1197831,7/29/20,South,Texas,Houston,Men's Apparel,40,500,200000,60000,Outlet
+West Gear,1128299,7/29/20,West,Washington,Seattle,Men's Apparel,90,425,382500,95625,In-store
+Sports Direct,1197831,7/29/20,South,Texas,Houston,Men's Apparel,38,125,4750,2137.5,Online
+West Gear,1128299,7/30/20,West,Washington,Seattle,Women's Apparel,88,138,12144,3764.64,Online
+West Gear,1128299,7/30/20,West,Washington,Seattle,Women's Apparel,95,550,522500,104500,In-store
+Sports Direct,1197831,7/30/20,South,Texas,Houston,Women's Apparel,35,700,245000,122500,Outlet
+Sports Direct,1197831,7/30/20,South,Texas,Houston,Women's Apparel,26,231,6006,3303.3,Outlet
+Sports Direct,1197831,7/30/20,South,Texas,Houston,Women's Apparel,34,196,6664,4198.32,Online
+Sports Direct,1197831,7/31/20,South,Texas,Houston,Men's Street Footwear,30,875,262500,91875,Outlet
+West Gear,1128299,7/31/20,West,Washington,Seattle,Men's Street Footwear,78,188,14664,5865.6,Online
+West Gear,1128299,7/31/20,West,Washington,Seattle,Men's Street Footwear,80,750,600000,180000,In-store
+Sports Direct,1197831,7/31/20,South,Texas,Houston,Men's Street Footwear,20,306,6120,2570.4,Outlet
+Sports Direct,1197831,7/31/20,South,Texas,Houston,Men's Street Footwear,29,254,7366,3314.7,Online
+West Gear,1128299,8/1/20,West,Washington,Seattle,Men's Athletic Footwear,85,750,637500,159375,In-store
+Sports Direct,1197831,8/1/20,South,Texas,Houston,Men's Athletic Footwear,30,263,7890,3077.1,Outlet
+Sports Direct,1197831,8/1/20,South,Texas,Houston,Men's Athletic Footwear,40,875,350000,122500,Outlet
+Sports Direct,1197831,8/1/20,South,Texas,Houston,Men's Athletic Footwear,39,236,9204,4141.8,Online
+West Gear,1128299,8/1/20,West,Washington,Seattle,Men's Athletic Footwear,77,195,15015,5705.7,Online
+Sports Direct,1197831,8/2/20,South,Texas,Houston,Women's Street Footwear,32,182,5824,2853.76,Online
+Sports Direct,1197831,8/2/20,South,Texas,Houston,Women's Street Footwear,35,700,245000,85750,Outlet
+Sports Direct,1197831,8/2/20,South,Texas,Houston,Women's Street Footwear,23,224,5152,2163.84,Outlet
+West Gear,1128299,8/2/20,West,Washington,Seattle,Women's Street Footwear,73,138,10074,3928.86,Online
+West Gear,1128299,8/2/20,West,Washington,Seattle,Women's Street Footwear,80,550,440000,110000,In-store
+Sports Direct,1197831,8/3/20,South,Texas,Houston,Women's Athletic Footwear,40,600,240000,108000,Outlet
+West Gear,1128299,8/3/20,West,Washington,Seattle,Women's Athletic Footwear,80,550,440000,132000,In-store
+Sports Direct,1197831,8/3/20,South,Texas,Houston,Women's Athletic Footwear,30,204,6120,2937.6,Outlet
+Sports Direct,1197831,8/3/20,South,Texas,Houston,Women's Athletic Footwear,37,174,6438,3734.04,Online
+West Gear,1128299,8/3/20,West,Washington,Seattle,Women's Athletic Footwear,76,138,10488,4509.84,Online
+West Gear,1128299,8/4/20,West,Washington,Seattle,Men's Apparel,90,475,427500,106875,In-store
+Sports Direct,1197831,8/4/20,South,Texas,Houston,Men's Apparel,41,125,5125,2050,Online
+Sports Direct,1197831,8/4/20,South,Texas,Houston,Men's Apparel,45,500,225000,67500,Outlet
+West Gear,1128299,8/4/20,West,Washington,Seattle,Men's Apparel,82,133,10906,4144.28,Online
+Sports Direct,1197831,8/4/20,South,Texas,Houston,Men's Apparel,35,155,5425,1736,Outlet
+Sports Direct,1197831,8/5/20,South,Texas,Houston,Women's Apparel,39,189,7371,4422.6,Online
+Sports Direct,1197831,8/5/20,South,Texas,Houston,Women's Apparel,29,228,6612,3636.6,Outlet
+Sports Direct,1197831,8/5/20,South,Texas,Houston,Women's Apparel,40,650,260000,130000,Outlet
+West Gear,1128299,8/5/20,West,Washington,Seattle,Women's Apparel,95,575,546250,109250,In-store
+West Gear,1128299,8/5/20,West,Washington,Seattle,Women's Apparel,86,150,12900,4386,Online
+Sports Direct,1197831,8/6/20,South,Texas,Houston,Men's Street Footwear,23,306,7038,2604.06,Outlet
+Sports Direct,1197831,8/6/20,South,Texas,Houston,Men's Street Footwear,30,900,270000,94500,Outlet
+Foot Locker,1185732,8/6/20,West,Washington,Seattle,Men's Street Footwear,44,273,12012,6606.6,Online
+Foot Locker,1185732,8/6/20,West,Washington,Seattle,Men's Street Footwear,45,1050,472500,212625,In-store
+Sports Direct,1197831,8/6/20,South,Texas,Houston,Men's Street Footwear,27,234,6318,3032.64,Online
+Foot Locker,1185732,8/7/20,West,Washington,Seattle,Men's Athletic Footwear,45,850,382500,133875,In-store
+Sports Direct,1197831,8/7/20,South,Texas,Houston,Men's Athletic Footwear,29,306,8874,3638.34,Outlet
+Sports Direct,1197831,8/7/20,South,Texas,Houston,Men's Athletic Footwear,38,225,8550,3847.5,Online
+Foot Locker,1185732,8/7/20,West,Washington,Seattle,Men's Athletic Footwear,41,221,9061,4439.89,Online
+Sports Direct,1197831,8/7/20,South,Texas,Houston,Men's Athletic Footwear,40,900,360000,126000,Outlet
+Foot Locker,1185732,8/8/20,West,Washington,Seattle,Women's Street Footwear,35,850,297500,74375,In-store
+Sports Direct,1197831,8/8/20,South,Texas,Houston,Women's Street Footwear,35,725,253750,88812.5,Outlet
+Sports Direct,1197831,8/8/20,South,Texas,Houston,Women's Street Footwear,24,232,5568,2060.16,Outlet
+Sports Direct,1197831,8/8/20,South,Texas,Houston,Women's Street Footwear,34,203,6902,3174.92,Online
+Foot Locker,1185732,8/8/20,West,Washington,Seattle,Women's Street Footwear,34,230,7820,3049.8,Online
+Foot Locker,1185732,8/9/20,West,Washington,Seattle,Women's Athletic Footwear,38,175,6650,2660,Online
+Foot Locker,1185732,8/9/20,West,Washington,Seattle,Women's Athletic Footwear,40,700,280000,84000,In-store
+Sports Direct,1197831,8/9/20,South,Texas,Houston,Women's Athletic Footwear,28,213,5964,2862.72,Outlet
+Sports Direct,1197831,8/9/20,South,Texas,Houston,Women's Athletic Footwear,36,163,5868,3462.12,Online
+Sports Direct,1197831,8/9/20,South,Texas,Houston,Women's Athletic Footwear,40,625,250000,112500,Outlet
+Foot Locker,1185732,8/10/20,Southeast,Florida,Miami,Men's Apparel,55,750,412500,144375,In-store
+Foot Locker,1185732,8/10/20,Southeast,Florida,Miami,Men's Apparel,50,195,9750,4875,Online
+Walmart,1197831,8/10/20,South,Texas,Houston,Men's Apparel,45,525,236250,70875,Outlet
+Walmart,1197831,8/10/20,South,Texas,Houston,Men's Apparel,42,147,6174,2593.08,Online
+Walmart,1197831,8/10/20,South,Texas,Houston,Men's Apparel,34,179,6086,2069.24,Outlet
+Walmart,1197831,8/11/20,South,Texas,Houston,Women's Apparel,27,272,7344,4039.2,Outlet
+Foot Locker,1185732,8/11/20,Southeast,Florida,Miami,Women's Apparel,41,247,10127,6278.74,Online
+Foot Locker,1185732,8/11/20,Southeast,Florida,Miami,Women's Apparel,45,850,382500,191250,In-store
+Walmart,1197831,8/11/20,South,Texas,Houston,Women's Apparel,39,232,9048,5519.28,Online
+Walmart,1197831,8/11/20,South,Texas,Houston,Women's Apparel,40,800,320000,160000,Outlet
+Walmart,1197831,8/12/20,South,Texas,Houston,Men's Street Footwear,24,315,7560,2948.4,Outlet
+Foot Locker,1185732,8/12/20,Southeast,Florida,Miami,Men's Street Footwear,45,1100,495000,222750,In-store
+Walmart,1197831,8/12/20,South,Texas,Houston,Men's Street Footwear,29,268,7772,3730.56,Online
+Foot Locker,1185732,8/12/20,Southeast,Florida,Miami,Men's Street Footwear,43,319,13717,7818.69,Online
+Walmart,1197831,8/12/20,South,Texas,Houston,Men's Street Footwear,30,925,277500,97125,Outlet
+Walmart,1197831,8/13/20,South,Texas,Houston,Men's Athletic Footwear,40,925,370000,129500,Outlet
+Foot Locker,1185732,8/13/20,Southeast,Florida,Miami,Men's Athletic Footwear,45,750,337500,118125,In-store
+Walmart,1197831,8/13/20,South,Texas,Houston,Men's Athletic Footwear,30,287,8610,3616.2,Outlet
+Walmart,1197831,8/13/20,South,Texas,Houston,Men's Athletic Footwear,38,259,9842,4527.32,Online
+Foot Locker,1185732,8/13/20,Southeast,Florida,Miami,Men's Athletic Footwear,43,195,8385,4108.65,Online
+Foot Locker,1185732,8/14/20,Southeast,Florida,Miami,Women's Street Footwear,32,240,7680,2918.4,Online
+Walmart,1197831,8/14/20,South,Texas,Houston,Women's Street Footwear,33,225,7425,3564,Online
+Foot Locker,1185732,8/14/20,Southeast,Florida,Miami,Women's Street Footwear,35,800,280000,70000,In-store
+Walmart,1197831,8/14/20,South,Texas,Houston,Women's Street Footwear,35,775,271250,94937.5,Outlet
+Walmart,1197831,8/14/20,South,Texas,Houston,Women's Street Footwear,23,240,5520,2042.4,Outlet
+West Gear,1185732,8/15/20,Southeast,Florida,Miami,Women's Athletic Footwear,38,169,6422,2825.68,Online
+Walmart,1197831,8/15/20,South,Texas,Houston,Women's Athletic Footwear,40,700,280000,126000,Outlet
+West Gear,1185732,8/15/20,Southeast,Florida,Miami,Women's Athletic Footwear,40,675,270000,81000,In-store
+Walmart,1197831,8/15/20,South,Texas,Houston,Women's Athletic Footwear,39,189,7371,4275.18,Online
+Walmart,1197831,8/15/20,South,Texas,Houston,Women's Athletic Footwear,31,245,7595,3873.45,Outlet
+Walmart,1197831,8/16/20,South,Texas,Houston,Men's Apparel,42,168,7056,2822.4,Online
+Foot Locker,1185732,8/16/20,Southeast,Florida,Miami,Men's Apparel,53,218,11554,5545.92,Online
+Foot Locker,1185732,8/16/20,Southeast,Florida,Miami,Men's Apparel,55,750,412500,144375,In-store
+Walmart,1197831,8/16/20,South,Texas,Houston,Men's Apparel,35,180,6300,2205,Outlet
+Walmart,1197831,8/16/20,South,Texas,Houston,Men's Apparel,45,600,270000,81000,Outlet
+Walmart,1197831,8/17/20,South,Texas,Houston,Women's Apparel,37,276,10212,6433.56,Online
+Foot Locker,1185732,8/17/20,Southeast,Florida,Miami,Women's Apparel,41,221,9061,5889.65,Online
+Foot Locker,1185732,8/17/20,Southeast,Florida,Miami,Women's Apparel,45,850,382500,191250,In-store
+Walmart,1197831,8/17/20,South,Texas,Houston,Women's Apparel,32,295,9440,5380.8,Outlet
+Walmart,1197831,8/17/20,South,Texas,Houston,Women's Apparel,40,950,380000,190000,Outlet
+Foot Locker,1185732,8/18/20,Southeast,Florida,Miami,Men's Street Footwear,41,268,10988,6592.8,Online
+Walmart,1197831,8/18/20,South,Texas,Houston,Men's Street Footwear,28,295,8260,3386.6,Outlet
+Foot Locker,1185732,8/18/20,Southeast,Florida,Miami,Men's Street Footwear,45,1070,481500,216675,In-store
+Walmart,1197831,8/18/20,South,Texas,Houston,Men's Street Footwear,40,950,380000,133000,Outlet
+Walmart,1197831,8/18/20,South,Texas,Houston,Men's Street Footwear,39,238,9282,4362.54,Online
+Foot Locker,1185732,8/19/20,Southeast,Florida,Miami,Men's Athletic Footwear,45,750,337500,118125,In-store
+Walmart,1197831,8/19/20,South,Texas,Houston,Men's Athletic Footwear,42,238,9996,4498.2,Online
+Foot Locker,1185732,8/19/20,Southeast,Florida,Miami,Men's Athletic Footwear,42,225,9450,4536,Online
+Walmart,1197831,8/19/20,South,Texas,Houston,Men's Athletic Footwear,33,323,10659,4476.78,Outlet
+Walmart,1197831,8/19/20,South,Texas,Houston,Men's Athletic Footwear,45,950,427500,149625,Outlet
+Walmart,1197831,8/20/20,South,Texas,Houston,Women's Street Footwear,37,232,8584,4206.16,Online
+Foot Locker,1185732,8/20/20,Southeast,Florida,Miami,Women's Street Footwear,35,775,271250,67812.5,In-store
+Foot Locker,1185732,8/20/20,Southeast,Florida,Miami,Women's Street Footwear,32,217,6944,2430.4,Online
+Walmart,1197831,8/20/20,South,Texas,Houston,Women's Street Footwear,27,264,7128,2851.2,Outlet
+Walmart,1197831,8/20/20,South,Texas,Houston,Women's Street Footwear,40,800,320000,112000,Outlet
+Walmart,1197831,8/21/20,South,Texas,Houston,Women's Athletic Footwear,26,263,6838,3282.24,Outlet
+Walmart,1197831,8/21/20,South,Texas,Houston,Women's Athletic Footwear,38,203,7714,4396.98,Online
+Walmart,1197831,8/21/20,South,Texas,Houston,Women's Athletic Footwear,40,750,300000,135000,Outlet
+Foot Locker,1185732,8/21/20,Southeast,Florida,Miami,Women's Athletic Footwear,36,175,6300,2520,Online
+Foot Locker,1185732,8/21/20,Southeast,Florida,Miami,Women's Athletic Footwear,40,625,250000,75000,In-store
+Walmart,1197831,8/22/20,South,Texas,Houston,Men's Apparel,45,650,292500,87750,Outlet
+Walmart,1197831,8/22/20,South,Texas,Houston,Men's Apparel,41,169,6929,3118.05,Online
+Foot Locker,1185732,8/22/20,Southeast,Florida,Miami,Men's Apparel,53,182,9646,4437.16,Online
+Walmart,1197831,8/22/20,South,Texas,Houston,Men's Apparel,29,221,6409,2050.88,Outlet
+Foot Locker,1185732,8/22/20,Southeast,Florida,Miami,Men's Apparel,55,675,371250,129937.5,In-store
+Walmart,1197831,8/23/20,South,Texas,Houston,Women's Apparel,47,250,11750,7520,Online
+Walmart,1197831,8/23/20,South,Texas,Houston,Women's Apparel,50,1000,500000,250000,Outlet
+Foot Locker,1185732,8/23/20,Southeast,Florida,Miami,Women's Apparel,45,775,348750,174375,In-store
+Walmart,1197831,8/23/20,South,Texas,Houston,Women's Apparel,38,350,13300,7581,Outlet
+Foot Locker,1185732,8/23/20,Southeast,Florida,Miami,Women's Apparel,42,225,9450,6048,Online
+Walmart,1197831,8/24/20,South,Texas,Houston,Men's Street Footwear,29,295,8555,3422,Outlet
+Walmart,1197831,8/24/20,South,Texas,Houston,Men's Street Footwear,37,238,8806,3962.7,Online
+Walmart,1197831,8/24/20,South,Texas,Houston,Men's Street Footwear,40,950,380000,133000,Outlet
+Walmart,1197831,8/25/20,South,Texas,Houston,Men's Athletic Footwear,45,950,427500,149625,Outlet
+Walmart,1197831,8/25/20,South,Texas,Houston,Men's Athletic Footwear,32,285,9120,3830.4,Outlet
+Walmart,1197831,8/25/20,South,Texas,Houston,Men's Athletic Footwear,42,238,9996,4598.16,Online
+Walmart,1197831,8/26/20,South,Texas,Houston,Women's Street Footwear,29,374,10846,4446.86,Outlet
+Walmart,1197831,8/26/20,South,Texas,Houston,Women's Street Footwear,40,1100,440000,154000,Outlet
+Walmart,1197831,8/26/20,South,Texas,Houston,Women's Street Footwear,37,319,11803,5311.35,Online
+Walmart,1197831,8/27/20,South,Texas,Houston,Women's Athletic Footwear,36,210,7560,4536,Online
+Walmart,1197831,8/27/20,South,Texas,Houston,Women's Athletic Footwear,40,700,280000,126000,Outlet
+Walmart,1197831,8/27/20,South,Texas,Houston,Women's Athletic Footwear,28,224,6272,3261.44,Outlet
+Walmart,1197831,8/28/20,South,Texas,Houston,Men's Apparel,45,700,315000,94500,Outlet
+Walmart,1197831,8/28/20,South,Texas,Houston,Men's Apparel,33,217,7161,2577.96,Outlet
+Walmart,1197831,8/28/20,South,Texas,Houston,Men's Apparel,41,196,8036,3214.4,Online
+Walmart,1197831,8/29/20,South,Texas,Houston,Women's Apparel,50,975,487500,243750,Outlet
+Walmart,1197831,8/29/20,South,Texas,Houston,Women's Apparel,47,293,13771,8675.73,Online
+Walmart,1197831,8/29/20,South,Texas,Houston,Women's Apparel,36,302,10872,5653.44,Outlet
+Walmart,1197831,8/30/20,South,Texas,Houston,Men's Street Footwear,37,268,9916,4858.84,Online
+Walmart,1197831,8/30/20,South,Texas,Houston,Men's Street Footwear,40,925,370000,129500,Outlet
+Walmart,1197831,8/30/20,South,Texas,Houston,Men's Street Footwear,27,305,8235,3046.95,Outlet
+Walmart,1197831,8/31/20,South,Texas,Houston,Men's Athletic Footwear,45,925,416250,145687.5,Outlet
+Walmart,1197831,8/31/20,South,Texas,Houston,Men's Athletic Footwear,33,305,10065,3824.7,Outlet
+Walmart,1197831,8/31/20,South,Texas,Houston,Men's Athletic Footwear,41,259,10619,4778.55,Online
+Walmart,1197831,9/1/20,South,Texas,Houston,Women's Street Footwear,29,374,10846,4446.86,Outlet
+Walmart,1197831,9/1/20,South,Texas,Houston,Women's Street Footwear,39,297,11583,5328.18,Online
+Walmart,1197831,9/1/20,South,Texas,Houston,Women's Street Footwear,40,1100,440000,154000,Outlet
+Walmart,1197831,9/2/20,South,Texas,Houston,Women's Athletic Footwear,30,215,6450,3096,Outlet
+Walmart,1197831,9/2/20,South,Texas,Houston,Women's Athletic Footwear,38,189,7182,4237.38,Online
+Walmart,1197831,9/2/20,South,Texas,Houston,Women's Athletic Footwear,40,650,260000,117000,Outlet
+Walmart,1197831,9/3/20,South,Texas,Houston,Men's Apparel,45,650,292500,87750,Outlet
+Walmart,1197831,9/3/20,South,Texas,Houston,Men's Apparel,35,228,7980,2713.2,Outlet
+Walmart,1197831,9/3/20,South,Texas,Houston,Men's Apparel,41,169,6929,2771.6,Online
+Walmart,1197831,9/4/20,South,Texas,Houston,Women's Apparel,50,900,450000,225000,Outlet
+Walmart,1197831,9/4/20,South,Texas,Houston,Women's Apparel,39,270,10530,5686.2,Outlet
+Walmart,1197831,9/4/20,South,Texas,Houston,Women's Apparel,46,225,10350,6727.5,Online
+Walmart,1197831,9/5/20,South,Texas,Houston,Men's Street Footwear,44,255,11220,5385.6,Online
+Walmart,1197831,9/5/20,South,Texas,Houston,Men's Street Footwear,33,264,8712,3659.04,Outlet
+Walmart,1197831,9/5/20,South,Texas,Houston,Men's Street Footwear,45,850,382500,133875,Outlet
+Walmart,1197831,9/6/20,South,Texas,Houston,Men's Athletic Footwear,41,213,8733,4017.18,Online
+Walmart,1197831,9/6/20,South,Texas,Houston,Men's Athletic Footwear,45,850,382500,133875,Outlet
+Walmart,1197831,9/6/20,South,Texas,Houston,Men's Athletic Footwear,32,255,8160,3019.2,Outlet
+Walmart,1197831,9/7/20,South,Texas,Houston,Women's Street Footwear,36,315,11340,4309.2,Outlet
+West Gear,1185732,9/7/20,Southeast,Florida,Miami,Women's Street Footwear,50,800,400000,100000,In-store
+West Gear,1185732,9/7/20,Southeast,Florida,Miami,Women's Street Footwear,49,208,10192,3567.2,Online
+Walmart,1197831,9/7/20,South,Texas,Houston,Women's Street Footwear,46,234,10764,5274.36,Online
+Walmart,1197831,9/7/20,South,Texas,Houston,Women's Street Footwear,50,900,450000,157500,Outlet
+Walmart,1197831,9/8/20,South,Texas,Houston,Women's Athletic Footwear,50,625,312500,140625,Outlet
+West Gear,1185732,9/8/20,Southeast,Florida,Miami,Women's Athletic Footwear,50,775,387500,116250,In-store
+Walmart,1197831,9/8/20,South,Texas,Houston,Women's Athletic Footwear,47,181,8507,4678.85,Online
+Walmart,1197831,9/8/20,South,Texas,Houston,Women's Athletic Footwear,37,200,7400,3700,Outlet
+West Gear,1185732,9/8/20,Southeast,Florida,Miami,Women's Athletic Footwear,47,217,10199,4079.6,Online
+Walmart,1197831,9/9/20,South,Texas,Houston,Men's Apparel,44,175,7700,3311,Online
+West Gear,1185732,9/9/20,Southeast,Florida,Miami,Men's Apparel,62,233,14446,7078.54,Online
+West Gear,1185732,9/9/20,Southeast,Florida,Miami,Men's Apparel,65,775,503750,176312.5,In-store
+Walmart,1197831,9/9/20,South,Texas,Houston,Men's Apparel,45,625,281250,84375,Outlet
+Walmart,1197831,9/9/20,South,Texas,Houston,Men's Apparel,36,206,7416,2669.76,Outlet
+Walmart,1197831,9/10/20,South,Texas,Houston,Women's Apparel,55,850,467500,233750,Outlet
+West Gear,1185732,9/10/20,Southeast,Florida,Miami,Women's Apparel,63,259,16317,10606.05,Online
+Walmart,1197831,9/10/20,South,Texas,Houston,Women's Apparel,50,213,10650,6816,Online
+West Gear,1185732,9/10/20,Southeast,Florida,Miami,Women's Apparel,70,925,647500,323750,In-store
+Walmart,1197831,9/10/20,South,Texas,Houston,Women's Apparel,42,298,12516,7134.12,Outlet
+Walmart,1197831,9/11/20,South,Texas,Houston,Men's Street Footwear,44,240,10560,5280,Online
+West Gear,1185732,9/11/20,Southeast,Florida,Miami,Men's Street Footwear,60,299,17940,10764,Online
+Walmart,1197831,9/11/20,South,Texas,Houston,Men's Street Footwear,31,272,8432,3288.48,Outlet
+West Gear,1185732,9/11/20,Southeast,Florida,Miami,Men's Street Footwear,65,1150,747500,336375,In-store
+Walmart,1197831,9/11/20,South,Texas,Houston,Men's Street Footwear,45,800,360000,126000,Outlet
+West Gear,1185732,9/12/20,Southeast,Florida,Miami,Men's Athletic Footwear,57,225,12825,5899.5,Online
+Walmart,1197831,9/12/20,South,Texas,Houston,Men's Athletic Footwear,43,216,9288,4365.36,Online
+West Gear,1185732,9/12/20,Southeast,Florida,Miami,Men's Athletic Footwear,60,900,540000,189000,In-store
+Walmart,1197831,9/12/20,South,Texas,Houston,Men's Athletic Footwear,45,800,360000,126000,Outlet
+Walmart,1197831,9/12/20,South,Texas,Houston,Men's Athletic Footwear,29,248,7192,2804.88,Outlet
+Walmart,1197831,9/13/20,South,Texas,Houston,Women's Street Footwear,48,188,9024,4241.28,Online
+West Gear,1185732,9/13/20,Southeast,Florida,Miami,Women's Street Footwear,55,825,453750,113437.5,In-store
+West Gear,1185732,9/13/20,Southeast,Florida,Miami,Women's Street Footwear,50,215,10750,3977.5,Online
+Walmart,1197831,9/13/20,South,Texas,Houston,Women's Street Footwear,39,255,9945,3679.65,Outlet
+Walmart,1197831,9/13/20,South,Texas,Houston,Women's Street Footwear,50,750,375000,131250,Outlet
+West Gear,1185732,9/14/20,Southeast,Florida,Miami,Women's Athletic Footwear,55,775,426250,127875,In-store
+Walmart,1197831,9/14/20,South,Texas,Houston,Women's Athletic Footwear,50,600,300000,135000,Outlet
+Walmart,1197831,9/14/20,South,Texas,Houston,Women's Athletic Footwear,36,204,7344,3451.68,Outlet
+West Gear,1185732,9/14/20,Southeast,Florida,Miami,Women's Athletic Footwear,53,233,12349,5310.07,Online
+Walmart,1197831,9/14/20,South,Texas,Houston,Women's Athletic Footwear,45,168,7560,4384.8,Online
+West Gear,1185732,9/15/20,Southeast,Florida,Miami,Men's Apparel,61,208,12688,6217.12,Online
+Walmart,1197831,9/15/20,South,Texas,Houston,Men's Apparel,42,150,6300,2583,Online
+West Gear,1185732,9/15/20,Southeast,Florida,Miami,Men's Apparel,65,800,520000,182000,In-store
+Walmart,1197831,9/15/20,South,Texas,Houston,Men's Apparel,45,575,258750,77625,Outlet
+Walmart,1197831,9/15/20,South,Texas,Houston,Men's Apparel,35,184,6440,2382.8,Outlet
+Walmart,1197831,9/16/20,South,Texas,Houston,Women's Apparel,53,210,11130,6900.6,Online
+West Gear,1185732,9/16/20,Southeast,Florida,Miami,Women's Apparel,70,975,682500,341250,In-store
+West Gear,1185732,9/16/20,Southeast,Florida,Miami,Women's Apparel,67,244,16348,10626.2,Online
+Walmart,1197831,9/16/20,South,Texas,Houston,Women's Apparel,55,750,412500,206250,Outlet
+Walmart,1197831,9/16/20,South,Texas,Houston,Women's Apparel,43,233,10019,5410.26,Outlet
+West Gear,1185732,9/17/20,Southeast,Florida,Miami,Men's Street Footwear,60,304,18240,10396.8,Online
+West Gear,1185732,9/17/20,Southeast,Florida,Miami,Men's Street Footwear,65,1125,731250,329062.5,In-store
+West Gear,1185732,9/18/20,Southeast,Florida,Miami,Men's Athletic Footwear,55,252,13860,6237,Online
+West Gear,1185732,9/18/20,Southeast,Florida,Miami,Men's Athletic Footwear,60,900,540000,189000,In-store
+West Gear,1185732,9/19/20,Southeast,Florida,Miami,Women's Street Footwear,53,231,12243,4529.91,Online
+West Gear,1185732,9/19/20,Southeast,Florida,Miami,Women's Street Footwear,55,825,453750,113437.5,In-store
+Foot Locker,1185732,9/20/20,Southeast,Florida,Miami,Women's Athletic Footwear,44,233,10252,4100.8,Online
+Foot Locker,1185732,9/20/20,Southeast,Florida,Miami,Women's Athletic Footwear,45,775,348750,104625,In-store
+Foot Locker,1185732,9/21/20,Southeast,Florida,Miami,Men's Apparel,55,750,412500,144375,In-store
+Foot Locker,1185732,9/21/20,Southeast,Florida,Miami,Men's Apparel,52,225,11700,5265,Online
+Foot Locker,1185732,9/22/20,Southeast,Florida,Miami,Women's Apparel,60,925,555000,277500,In-store
+Foot Locker,1185732,9/22/20,Southeast,Florida,Miami,Women's Apparel,56,278,15568,9496.48,Online
+Foot Locker,1185732,9/23/20,Southeast,Florida,Miami,Men's Street Footwear,55,1050,577500,259875,In-store
+Foot Locker,1185732,9/23/20,Southeast,Florida,Miami,Men's Street Footwear,53,284,15052,8278.6,Online
+Foot Locker,1185732,9/24/20,Southeast,Florida,Miami,Men's Athletic Footwear,50,850,425000,148750,In-store
+Foot Locker,1185732,9/24/20,Southeast,Florida,Miami,Men's Athletic Footwear,46,255,11730,5278.5,Online
+Sports Direct,1185732,9/25/20,Southeast,Florida,Miami,Women's Street Footwear,41,225,9225,3413.25,Online
+Sports Direct,1185732,9/25/20,Southeast,Florida,Miami,Women's Street Footwear,45,750,337500,84375,In-store
+Sports Direct,1185732,9/26/20,Southeast,Florida,Miami,Women's Athletic Footwear,45,725,326250,97875,In-store
+Sports Direct,1185732,9/26/20,Southeast,Florida,Miami,Women's Athletic Footwear,42,210,8820,3792.6,Online
+Sports Direct,1185732,9/27/20,Southeast,Florida,Miami,Men's Apparel,50,210,10500,5250,Online
+Sports Direct,1185732,9/27/20,Southeast,Florida,Miami,Men's Apparel,55,725,398750,139562.5,In-store
+Sports Direct,1185732,9/28/20,Southeast,Florida,Miami,Women's Apparel,55,223,12265,7726.95,Online
+Sports Direct,1185732,9/28/20,Southeast,Florida,Miami,Women's Apparel,60,825,495000,247500,In-store
+Sports Direct,1185732,9/29/20,Southeast,Florida,Miami,Men's Street Footwear,60,1000,600000,270000,In-store
+Sports Direct,1185732,9/29/20,Southeast,Florida,Miami,Men's Street Footwear,56,270,15120,9072,Online
+Sports Direct,1185732,9/30/20,Southeast,Florida,Miami,Men's Athletic Footwear,47,215,10105,4547.25,Online
+Sports Direct,1185732,9/30/20,Southeast,Florida,Miami,Men's Athletic Footwear,50,825,412500,144375,In-store
+Sports Direct,1185732,10/1/20,Southeast,Florida,Miami,Women's Street Footwear,47,203,9541,3720.99,Online
+Sports Direct,1185732,10/1/20,Southeast,Florida,Miami,Women's Street Footwear,50,725,362500,90625,In-store
+Sports Direct,1185732,10/2/20,Southeast,Florida,Miami,Women's Athletic Footwear,45,182,8190,3603.6,Online
+Sports Direct,1185732,10/2/20,Southeast,Florida,Miami,Women's Athletic Footwear,50,700,350000,105000,In-store
+Sports Direct,1185732,10/3/20,Southeast,Florida,Miami,Men's Apparel,60,700,420000,147000,In-store
+Sports Direct,1185732,10/3/20,Southeast,Florida,Miami,Men's Apparel,57,189,10773,5386.5,Online
+Sports Direct,1185732,10/4/20,Southeast,Florida,Miami,Women's Apparel,59,223,13157,8552.05,Online
+Sports Direct,1185732,10/4/20,Southeast,Florida,Miami,Women's Apparel,65,825,536250,268125,In-store
+Sports Direct,1185732,10/5/20,Southeast,Florida,Miami,Men's Street Footwear,56,244,13664,7925.12,Online
+Sports Direct,1185732,10/5/20,Southeast,Florida,Miami,Men's Street Footwear,60,975,585000,263250,In-store
+Sports Direct,1185732,10/6/20,Southeast,Florida,Miami,Men's Athletic Footwear,50,800,400000,140000,In-store
+Sports Direct,1185732,10/6/20,Southeast,Florida,Miami,Men's Athletic Footwear,49,224,10976,5268.48,Online
+Sports Direct,1185732,10/7/20,Southeast,Florida,Miami,Women's Street Footwear,46,224,10304,3812.48,Online
+Sports Direct,1185732,10/7/20,Southeast,Florida,Miami,Women's Street Footwear,50,745,372500,93125,In-store
+Sports Direct,1185732,10/8/20,Southeast,Florida,Miami,Women's Athletic Footwear,49,202,9898,4355.12,Online
+Sports Direct,1185732,10/8/20,Southeast,Florida,Miami,Women's Athletic Footwear,50,775,387500,116250,In-store
+Sports Direct,1185732,10/9/20,Southeast,Florida,Miami,Men's Apparel,64,195,12480,6240,Online
+Sports Direct,1185732,10/9/20,Southeast,Florida,Miami,Men's Apparel,65,750,487500,170625,In-store
+Sports Direct,1185732,10/10/20,Southeast,Florida,Miami,Women's Apparel,70,850,595000,297500,In-store
+Sports Direct,1185732,10/10/20,Southeast,Florida,Miami,Women's Apparel,64,213,13632,8179.2,Online
+Foot Locker,1185732,10/17/20,Southeast,Florida,Miami,Men's Street Footwear,33,131,4323,1945.35,Online
+Foot Locker,1185732,10/17/20,Southeast,Florida,Miami,Men's Street Footwear,35,450,157500,55125,In-store
+Foot Locker,1185732,10/18/20,Southeast,Florida,Miami,Men's Athletic Footwear,35,250,87500,26250,In-store
+Foot Locker,1185732,10/18/20,Southeast,Florida,Miami,Men's Athletic Footwear,33,65,2145,858,Online
+Foot Locker,1185732,10/19/20,Southeast,Florida,Miami,Women's Street Footwear,24,63,1512,665.28,Online
+Foot Locker,1185732,10/19/20,Southeast,Florida,Miami,Women's Street Footwear,25,250,62500,18750,In-store
+Foot Locker,1185732,10/20/20,Southeast,Florida,Miami,Women's Athletic Footwear,30,100,30000,10500,In-store
+Walmart,1197831,10/20/20,South,Texas,Houston,Men's Street Footwear,34,270,9180,3488.4,Outlet
+Walmart,1197831,10/20/20,South,Texas,Houston,Men's Street Footwear,43,234,10062,4930.38,Online
+Walmart,1197831,10/20/20,South,Texas,Houston,Men's Street Footwear,45,900,405000,141750,Outlet
+Foot Locker,1185732,10/20/20,Southeast,Florida,Miami,Women's Athletic Footwear,29,26,754,339.3,Online
+Walmart,1197831,10/21/20,South,Texas,Houston,Men's Athletic Footwear,45,900,405000,141750,Outlet
+Walmart,1197831,10/21/20,South,Texas,Houston,Men's Athletic Footwear,43,243,10449,5120.01,Online
+Foot Locker,1185732,10/21/20,Midwest,Minnesota,Minneapolis,Men's Apparel,45,150,67500,20250,In-store
+Foot Locker,1185732,10/21/20,Midwest,Minnesota,Minneapolis,Men's Apparel,43,39,1677,754.65,Online
+Walmart,1197831,10/21/20,South,Texas,Houston,Men's Athletic Footwear,31,306,9486,3794.4,Outlet
+Foot Locker,1185732,10/22/20,Midwest,Minnesota,Minneapolis,Women's Apparel,32,65,2080,1164.8,Online
+Walmart,1197831,10/22/20,South,Texas,Houston,Women's Street Footwear,50,825,412500,144375,Outlet
+Walmart,1197831,10/22/20,South,Texas,Houston,Women's Street Footwear,47,206,9682,4647.36,Online
+Foot Locker,1185732,10/22/20,Midwest,Minnesota,Minneapolis,Women's Apparel,35,250,87500,39375,In-store
+Walmart,1197831,10/22/20,South,Texas,Houston,Women's Street Footwear,34,281,9554,3726.06,Outlet
+Walmart,1197831,10/23/20,South,Texas,Houston,Women's Athletic Footwear,36,230,8280,4140,Outlet
+Foot Locker,1185732,10/23/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,35,500,175000,61250,In-store
+Foot Locker,1185732,10/23/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,32,135,4320,1944,Online
+Walmart,1197831,10/23/20,South,Texas,Houston,Women's Athletic Footwear,48,203,9744,5359.2,Online
+Walmart,1197831,10/23/20,South,Texas,Houston,Women's Athletic Footwear,50,675,337500,151875,Outlet
+Walmart,1197831,10/24/20,South,Texas,Houston,Men's Apparel,30,195,5850,1872,Outlet
+Foot Locker,1185732,10/24/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,35,150,52500,15750,In-store
+Foot Locker,1185732,10/24/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,34,38,1292,581.4,Online
+Walmart,1197831,10/24/20,South,Texas,Houston,Men's Apparel,42,195,8190,3685.5,Online
+Walmart,1197831,10/24/20,South,Texas,Houston,Men's Apparel,45,650,292500,87750,Outlet
+Foot Locker,1185732,10/25/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,25,56,1400,588,Online
+Walmart,1197831,10/25/20,South,Texas,Houston,Women's Apparel,55,850,467500,233750,Outlet
+Walmart,1197831,10/25/20,South,Texas,Houston,Women's Apparel,44,289,12716,7248.12,Outlet
+Walmart,1197831,10/25/20,South,Texas,Houston,Women's Apparel,51,247,12597,7810.14,Online
+Foot Locker,1185732,10/25/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,25,200,50000,15000,In-store
+Walmart,1197831,10/26/20,South,Texas,Houston,Men's Street Footwear,32,333,10656,4262.4,Outlet
+Foot Locker,1185732,10/26/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,27,20,540,253.8,Online
+Foot Locker,1185732,10/26/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,30,75,22500,7875,In-store
+Walmart,1197831,10/26/20,South,Texas,Houston,Men's Street Footwear,41,238,9758,4683.84,Online
+Walmart,1197831,10/26/20,South,Texas,Houston,Men's Street Footwear,45,950,427500,149625,Outlet
+Walmart,1197831,10/27/20,South,Texas,Houston,Men's Athletic Footwear,34,333,11322,4755.24,Outlet
+Walmart,1197831,10/27/20,South,Texas,Houston,Men's Athletic Footwear,44,285,12540,6019.2,Online
+Foot Locker,1185732,10/27/20,Midwest,Minnesota,Minneapolis,Men's Apparel,45,150,67500,20250,In-store
+Foot Locker,1185732,10/27/20,Midwest,Minnesota,Minneapolis,Men's Apparel,41,44,1804,739.64,Online
+Walmart,1197831,10/27/20,South,Texas,Houston,Men's Athletic Footwear,45,950,427500,149625,Outlet
+Foot Locker,1185732,10/28/20,Midwest,Minnesota,Minneapolis,Women's Apparel,34,65,2210,1215.5,Online
+Walmart,1197831,10/28/20,South,Texas,Houston,Women's Street Footwear,47,255,11985,5872.65,Online
+Foot Locker,1185732,10/28/20,Midwest,Minnesota,Minneapolis,Women's Apparel,35,225,78750,35437.5,In-store
+Walmart,1197831,10/28/20,South,Texas,Houston,Women's Street Footwear,50,850,425000,148750,Outlet
+Walmart,1197831,10/28/20,South,Texas,Houston,Women's Street Footwear,38,298,11324,4303.12,Outlet
+Foot Locker,1185732,10/29/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,39,116,4524,2262,Online
+Walmart,1197831,10/29/20,South,Texas,Houston,Women's Athletic Footwear,50,700,350000,157500,Outlet
+Walmart,1197831,10/29/20,South,Texas,Houston,Women's Athletic Footwear,36,210,7560,3931.2,Outlet
+Walmart,1197831,10/29/20,South,Texas,Houston,Women's Athletic Footwear,47,182,8554,4961.32,Online
+Foot Locker,1185732,10/29/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,40,445,178000,62300,In-store
+Foot Locker,1185732,10/30/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,40,125,50000,15000,In-store
+Walmart,1197831,10/30/20,South,Texas,Houston,Men's Apparel,45,650,292500,87750,Outlet
+Walmart,1197831,10/30/20,South,Texas,Houston,Men's Apparel,30,208,6240,2246.4,Outlet
+Foot Locker,1185732,10/30/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,38,35,1330,532,Online
+Walmart,1197831,10/30/20,South,Texas,Houston,Men's Apparel,42,169,7098,3194.1,Online
+Foot Locker,1185732,10/31/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,30,175,52500,15750,In-store
+Foot Locker,1185732,10/31/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,29,53,1537,691.65,Online
+Walmart,1197831,10/31/20,South,Texas,Houston,Women's Apparel,41,306,12546,6900.3,Outlet
+Walmart,1197831,10/31/20,South,Texas,Houston,Women's Apparel,53,261,13833,8576.46,Online
+Walmart,1197831,10/31/20,South,Texas,Houston,Women's Apparel,55,900,495000,247500,Outlet
+Foot Locker,1185732,11/1/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,35,25,8750,3062.5,In-store
+West Gear,1128299,11/1/20,South,Texas,Houston,Men's Street Footwear,37,209,7733,3479.85,Online
+Foot Locker,1185732,11/1/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,32,7,224,112,Online
+West Gear,1128299,11/1/20,South,Texas,Houston,Men's Street Footwear,30,264,7920,3088.8,Outlet
+West Gear,1128299,11/1/20,South,Texas,Houston,Men's Street Footwear,40,775,310000,108500,Outlet
+Foot Locker,1185732,11/2/20,Midwest,Minnesota,Minneapolis,Men's Apparel,50,75,37500,11250,In-store
+West Gear,1128299,11/2/20,South,Texas,Houston,Men's Athletic Footwear,33,248,8184,1882.32,Outlet
+West Gear,1128299,11/2/20,South,Texas,Houston,Men's Athletic Footwear,49,194,9506,2946.86,Online
+Foot Locker,1185732,11/2/20,Midwest,Minnesota,Minneapolis,Men's Apparel,47,19,893,375.06,Online
+West Gear,1128299,11/2/20,South,Texas,Houston,Men's Athletic Footwear,50,775,387500,77500,Outlet
+West Gear,1128299,11/3/20,South,Texas,Houston,Women's Street Footwear,46,217,9982,4491.9,Online
+Foot Locker,1185732,11/3/20,Midwest,Minnesota,Minneapolis,Women's Apparel,40,175,70000,31500,In-store
+Foot Locker,1185732,11/3/20,Midwest,Minnesota,Minneapolis,Women's Apparel,38,47,1786,982.3,Online
+West Gear,1128299,11/3/20,South,Texas,Houston,Women's Street Footwear,33,271,8943,3756.06,Outlet
+West Gear,1128299,11/3/20,South,Texas,Houston,Women's Street Footwear,50,775,387500,135625,Outlet
+West Gear,1128299,11/4/20,South,Texas,Houston,Women's Athletic Footwear,50,625,312500,93750,Outlet
+Foot Locker,1185732,11/4/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,36,120,4320,2030.4,Online
+Foot Locker,1185732,11/4/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,40,400,160000,56000,In-store
+West Gear,1128299,11/4/20,South,Texas,Houston,Women's Athletic Footwear,35,219,7665,2759.4,Outlet
+West Gear,1128299,11/4/20,South,Texas,Houston,Women's Athletic Footwear,48,175,8400,3360,Online
+West Gear,1128299,11/5/20,West,California,San Francisco,Men's Apparel,51,161,8211,5172.93,Online
+Foot Locker,1185732,11/5/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,40,100,40000,12000,In-store
+West Gear,1128299,11/5/20,West,California,San Francisco,Men's Apparel,38,173,6574,3549.96,Outlet
+Foot Locker,1185732,11/5/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,38,28,1064,446.88,Online
+West Gear,1128299,11/5/20,West,California,San Francisco,Men's Apparel,55,575,316250,158125,Outlet
+West Gear,1128299,11/6/20,West,California,San Francisco,Women's Apparel,50,775,387500,58125,Outlet
+West Gear,1128299,11/6/20,West,California,San Francisco,Women's Apparel,49,233,11417,2854.25,Online
+West Gear,1128299,11/6/20,West,California,San Francisco,Women's Apparel,36,233,8388,1761.48,Outlet
+Foot Locker,1185732,11/6/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,29,26,754,331.76,Online
+Foot Locker,1185732,11/6/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,30,100,30000,9000,In-store
+West Gear,1128299,11/7/20,West,California,San Francisco,Men's Street Footwear,40,825,330000,115500,Outlet
+Foot Locker,1185732,11/7/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,35,25,8750,3062.5,In-store
+Foot Locker,1185732,11/7/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,32,7,224,112,Online
+West Gear,1128299,11/7/20,West,California,San Francisco,Men's Street Footwear,28,289,8092,3398.64,Outlet
+West Gear,1128299,11/7/20,West,California,San Francisco,Men's Street Footwear,37,223,8251,4125.5,Online
+West Gear,1128299,11/8/20,West,California,San Francisco,Men's Athletic Footwear,49,210,10290,3189.9,Online
+Foot Locker,1185732,11/8/20,Midwest,Minnesota,Minneapolis,Men's Apparel,50,50,25000,7500,In-store
+West Gear,1128299,11/8/20,West,California,San Francisco,Men's Athletic Footwear,36,239,8604,2151,Outlet
+Foot Locker,1185732,11/8/20,Midwest,Minnesota,Minneapolis,Men's Apparel,47,14,658,263.2,Online
+West Gear,1128299,11/8/20,West,California,San Francisco,Men's Athletic Footwear,50,725,362500,72500,Outlet
+Foot Locker,1185732,11/9/20,Midwest,Minnesota,Minneapolis,Women's Apparel,36,53,1908,1144.8,Online
+West Gear,1128299,11/9/20,West,California,San Francisco,Women's Street Footwear,40,247,9880,4050.8,Outlet
+West Gear,1128299,11/9/20,West,California,San Francisco,Women's Street Footwear,50,725,362500,126875,Outlet
+West Gear,1128299,11/9/20,West,California,San Francisco,Women's Street Footwear,49,196,9604,4705.96,Online
+Foot Locker,1185732,11/9/20,Midwest,Minnesota,Minneapolis,Women's Apparel,40,175,70000,31500,In-store
+Foot Locker,1185732,11/10/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,50,445,222500,77875,In-store
+West Gear,1128299,11/10/20,West,California,San Francisco,Women's Athletic Footwear,47,150,7050,2961,Online
+West Gear,1128299,11/10/20,West,California,San Francisco,Women's Athletic Footwear,39,190,7410,2519.4,Outlet
+Foot Locker,1185732,11/10/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,48,116,5568,2616.96,Online
+West Gear,1128299,11/10/20,West,California,San Francisco,Women's Athletic Footwear,50,575,287500,86250,Outlet
+Foot Locker,1185732,11/11/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,44,44,1936,793.76,Online
+West Gear,1128299,11/11/20,West,California,San Francisco,Men's Apparel,50,140,7000,4270,Online
+Foot Locker,1185732,11/11/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,45,150,67500,20250,In-store
+West Gear,1128299,11/11/20,West,California,San Francisco,Men's Apparel,42,165,6930,3950.1,Outlet
+West Gear,1128299,11/11/20,West,California,San Francisco,Men's Apparel,55,500,275000,137500,Outlet
+Foot Locker,1185732,11/12/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,40,125,50000,15000,In-store
+West Gear,1128299,11/12/20,West,California,San Francisco,Women's Apparel,33,210,6930,1524.6,Outlet
+Foot Locker,1185732,11/12/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,37,38,1406,618.64,Online
+West Gear,1128299,11/12/20,West,California,San Francisco,Women's Apparel,46,182,8372,2344.16,Online
+West Gear,1128299,11/12/20,West,California,San Francisco,Women's Apparel,50,700,350000,52500,Outlet
+West Gear,1128299,11/13/20,West,California,San Francisco,Men's Street Footwear,36,272,9792,3818.88,Outlet
+West Gear,1128299,11/13/20,West,California,San Francisco,Men's Street Footwear,49,230,11270,5071.5,Online
+Foot Locker,1185732,11/13/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,40,50,20000,7000,In-store
+West Gear,1128299,11/13/20,West,California,San Francisco,Men's Street Footwear,50,850,425000,148750,Outlet
+Foot Locker,1185732,11/13/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,36,13,468,229.32,Online
+West Gear,1128299,11/14/20,West,California,San Francisco,Men's Athletic Footwear,58,175,10150,3045,Online
+West Gear,1128299,11/14/20,West,California,San Francisco,Men's Athletic Footwear,60,700,420000,84000,Outlet
+West Gear,1128299,11/14/20,West,California,San Francisco,Men's Athletic Footwear,39,231,9009,2072.07,Outlet
+Foot Locker,1185732,11/14/20,Midwest,Minnesota,Minneapolis,Men's Apparel,55,75,41250,12375,In-store
+Foot Locker,1185732,11/14/20,Midwest,Minnesota,Minneapolis,Men's Apparel,50,20,1000,410,Online
+West Gear,1128299,11/15/20,West,California,San Francisco,Women's Street Footwear,47,210,9870,4145.4,Outlet
+Foot Locker,1185732,11/15/20,Midwest,Minnesota,Minneapolis,Women's Apparel,60,175,105000,47250,In-store
+Foot Locker,1185732,11/15/20,Midwest,Minnesota,Minneapolis,Women's Apparel,58,51,2958,1745.22,Online
+West Gear,1128299,11/15/20,West,California,San Francisco,Women's Street Footwear,55,203,11165,5247.55,Online
+West Gear,1128299,11/15/20,West,California,San Francisco,Women's Street Footwear,60,700,420000,147000,Outlet
+Foot Locker,1185732,11/16/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,44,106,4664,2285.36,Online
+Foot Locker,1185732,11/16/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,45,425,191250,66937.5,Outlet
+Foot Locker,1185732,11/17/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,38,49,1862,763.42,Online
+Foot Locker,1185732,11/17/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,40,175,70000,21000,Outlet
+Foot Locker,1185732,11/18/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,33,47,1551,697.95,Online
+Foot Locker,1185732,11/18/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,35,175,61250,18375,Outlet
+Foot Locker,1185732,11/19/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,32,45,1440,676.8,Online
+Foot Locker,1185732,11/19/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,35,150,52500,18375,Outlet
+Foot Locker,1185732,11/20/20,Midwest,Minnesota,Minneapolis,Men's Apparel,49,45,2205,926.1,Online
+Foot Locker,1185732,11/20/20,Midwest,Minnesota,Minneapolis,Men's Apparel,50,150,75000,22500,Outlet
+Foot Locker,1185732,11/21/20,Midwest,Minnesota,Minneapolis,Women's Apparel,55,325,178750,80437.5,Outlet
+Foot Locker,1185732,11/21/20,Midwest,Minnesota,Minneapolis,Women's Apparel,53,81,4293,2404.08,Online
+Foot Locker,1185732,11/22/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,50,550,275000,96250,Outlet
+Foot Locker,1185732,11/22/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,49,160,7840,3684.8,Online
+Foot Locker,1185732,11/23/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,45,300,135000,40500,Outlet
+Foot Locker,1185732,11/23/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,42,75,3150,1417.5,Online
+Foot Locker,1185732,11/24/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,40,225,90000,27000,Outlet
+Foot Locker,1185732,11/24/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,36,63,2268,952.56,Online
+Foot Locker,1185732,11/25/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,40,175,70000,24500,Outlet
+Foot Locker,1185732,11/25/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,38,51,1938,930.24,Online
+Foot Locker,1185732,11/26/20,Midwest,Minnesota,Minneapolis,Men's Apparel,49,58,2842,1165.22,Online
+Foot Locker,1185732,11/26/20,Midwest,Minnesota,Minneapolis,Men's Apparel,50,200,100000,30000,Outlet
+Foot Locker,1185732,11/27/20,Midwest,Minnesota,Minneapolis,Women's Apparel,55,375,206250,92812.5,Outlet
+Foot Locker,1185732,11/27/20,Midwest,Minnesota,Minneapolis,Women's Apparel,54,98,5292,2910.6,Online
+Foot Locker,1185732,11/28/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,50,525,262500,91875,Outlet
+Foot Locker,1185732,11/28/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,47,137,6439,3026.33,Online
+Foot Locker,1185732,11/29/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,45,300,135000,40500,Outlet
+Foot Locker,1185732,11/29/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,43,87,3741,1533.81,Online
+Foot Locker,1185732,11/30/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,37,68,2516,1006.4,Online
+Foot Locker,1185732,11/30/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,40,225,90000,27000,Outlet
+Foot Locker,1185732,12/1/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,33,47,1551,759.99,Online
+Foot Locker,1185732,12/1/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,35,175,61250,21437.5,Outlet
+Foot Locker,1185732,12/2/20,Midwest,Minnesota,Minneapolis,Men's Apparel,45,150,67500,20250,Outlet
+Foot Locker,1185732,12/2/20,Midwest,Minnesota,Minneapolis,Men's Apparel,42,42,1764,723.24,Online
+Foot Locker,1185732,12/3/20,Midwest,Minnesota,Minneapolis,Women's Apparel,50,325,162500,73125,Outlet
+Foot Locker,1185732,12/3/20,Midwest,Minnesota,Minneapolis,Women's Apparel,46,88,4048,2307.36,Online
+Foot Locker,1185732,12/4/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,45,450,202500,70875,Outlet
+Foot Locker,1185732,12/4/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,43,113,4859,2332.32,Online
+Foot Locker,1185732,12/5/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,40,250,100000,30000,Outlet
+Foot Locker,1185732,12/5/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,37,73,2701,1215.45,Online
+Foot Locker,1185732,12/6/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,25,150,37500,11250,Outlet
+Foot Locker,1185732,12/6/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,24,41,984,393.6,Online
+Foot Locker,1185732,12/7/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,25,125,31250,10937.5,Outlet
+Foot Locker,1185732,12/7/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,24,31,744,342.24,Online
+Foot Locker,1185732,12/8/20,Midwest,Minnesota,Minneapolis,Men's Apparel,35,125,43750,13125,Outlet
+Foot Locker,1185732,12/8/20,Midwest,Minnesota,Minneapolis,Men's Apparel,32,34,1088,478.72,Online
+Foot Locker,1185732,12/9/20,Midwest,Minnesota,Minneapolis,Women's Apparel,39,52,2028,1155.96,Online
+Foot Locker,1185732,12/9/20,Midwest,Minnesota,Minneapolis,Women's Apparel,40,200,80000,36000,Outlet
+Foot Locker,1185732,12/10/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,45,375,168750,59062.5,Outlet
+Foot Locker,1185732,12/10/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,41,98,4018,1888.46,Online
+Foot Locker,1185732,12/11/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,34,58,1972,847.96,Online
+Foot Locker,1185732,12/11/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,35,200,70000,21000,Outlet
+Foot Locker,1185732,12/12/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,32,25,800,336,Online
+Foot Locker,1185732,12/12/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,35,100,35000,10500,Outlet
+Foot Locker,1185732,12/13/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,32,21,672,309.12,Online
+Foot Locker,1185732,12/13/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,35,75,26250,9187.5,Outlet
+Foot Locker,1185732,12/14/20,Midwest,Minnesota,Minneapolis,Men's Apparel,45,75,33750,10125,Outlet
+Foot Locker,1185732,12/14/20,Midwest,Minnesota,Minneapolis,Men's Apparel,41,19,779,327.18,Online
+Foot Locker,1185732,12/15/20,Midwest,Minnesota,Minneapolis,Women's Apparel,50,200,100000,45000,Outlet
+Foot Locker,1185732,12/15/20,Midwest,Minnesota,Minneapolis,Women's Apparel,49,60,2940,1764,Online
+Foot Locker,1185732,12/16/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,50,350,175000,61250,Outlet
+Foot Locker,1185732,12/16/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,46,91,4186,1967.42,Online
+Foot Locker,1185732,12/17/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,40,200,80000,24000,Outlet
+Foot Locker,1185732,12/17/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,38,52,1976,790.4,Online
+Foot Locker,1185732,12/18/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,40,145,58000,17400,Outlet
+Foot Locker,1185732,12/18/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,36,38,1368,547.2,Online
+Foot Locker,1185732,12/19/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,40,150,60000,21000,Outlet
+Foot Locker,1185732,12/19/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,38,45,1710,837.9,Online
+Foot Locker,1185732,12/20/20,Midwest,Minnesota,Minneapolis,Men's Apparel,52,34,1768,742.56,Online
+Foot Locker,1185732,12/20/20,Midwest,Minnesota,Minneapolis,Men's Apparel,55,125,68750,20625,Outlet
+Foot Locker,1185732,12/21/20,Midwest,Minnesota,Minneapolis,Women's Apparel,59,61,3599,2159.4,Online
+Foot Locker,1185732,12/21/20,Midwest,Minnesota,Minneapolis,Women's Apparel,60,225,135000,60750,Outlet
+West Gear,1128299,12/22/20,West,California,San Francisco,Women's Athletic Footwear,60,600,360000,108000,Outlet
+West Gear,1128299,12/22/20,West,California,San Francisco,Women's Athletic Footwear,48,204,9792,3133.44,Outlet
+Foot Locker,1185732,12/22/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,55,475,261250,91437.5,Outlet
+West Gear,1128299,12/22/20,West,California,San Francisco,Women's Athletic Footwear,58,174,10092,4339.56,Online
+Foot Locker,1185732,12/22/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,50,124,6200,3100,Online
+Foot Locker,1185732,12/23/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,45,275,123750,37125,Outlet
+West Gear,1128299,12/23/20,West,California,San Francisco,Men's Apparel,62,145,8990,5663.7,Online
+West Gear,1128299,12/23/20,West,California,San Francisco,Men's Apparel,65,500,325000,162500,Outlet
+West Gear,1128299,12/23/20,West,California,San Francisco,Men's Apparel,51,170,8670,4681.8,Outlet
+Foot Locker,1185732,12/23/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,42,77,3234,1455.3,Online
+Foot Locker,1185732,12/24/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,45,225,101250,30375,Outlet
+West Gear,1128299,12/24/20,West,California,San Francisco,Women's Apparel,60,700,420000,63000,Outlet
+West Gear,1128299,12/24/20,West,California,San Francisco,Women's Apparel,54,210,11340,3061.8,Online
+Foot Locker,1185732,12/24/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,44,56,2464,1010.24,Online
+West Gear,1128299,12/24/20,West,California,San Francisco,Women's Apparel,41,245,10045,2009,Outlet
+West Gear,1128299,12/25/20,West,California,San Francisco,Men's Street Footwear,56,228,12768,6000.96,Online
+Foot Locker,1185732,12/25/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,45,175,78750,27562.5,Outlet
+West Gear,1128299,12/25/20,West,California,San Francisco,Men's Street Footwear,60,875,525000,183750,Outlet
+West Gear,1128299,12/25/20,West,California,San Francisco,Men's Street Footwear,40,271,10840,4119.2,Outlet
+Foot Locker,1185732,12/25/20,Midwest,Minnesota,Minneapolis,Women's Athletic Footwear,44,49,2156,1056.44,Online
+West Gear,1128299,12/26/20,West,California,San Francisco,Men's Athletic Footwear,65,675,438750,87750,Outlet
+Foot Locker,1185732,12/26/20,Midwest,Minnesota,Minneapolis,Men's Apparel,54,44,2376,974.16,Online
+West Gear,1128299,12/26/20,West,California,San Francisco,Men's Athletic Footwear,51,216,11016,2754,Outlet
+West Gear,1128299,12/26/20,West,California,San Francisco,Men's Athletic Footwear,62,203,12586,3775.8,Online
+Foot Locker,1185732,12/26/20,Midwest,Minnesota,Minneapolis,Men's Apparel,55,175,96250,28875,Outlet
+Foot Locker,1185732,12/27/20,Midwest,Minnesota,Minneapolis,Women's Apparel,54,77,4158,2370.06,Online
+West Gear,1128299,12/27/20,West,California,San Francisco,Women's Street Footwear,64,210,13440,6720,Online
+West Gear,1128299,12/27/20,West,California,San Francisco,Women's Street Footwear,46,254,11684,4556.76,Outlet
+Foot Locker,1185732,12/27/20,Midwest,Minnesota,Minneapolis,Women's Apparel,60,275,165000,74250,Outlet
+West Gear,1128299,12/27/20,West,California,San Francisco,Women's Street Footwear,65,725,471250,164937.5,Outlet
+West Gear,1128299,12/28/20,West,California,San Francisco,Women's Athletic Footwear,60,625,375000,112500,Outlet
+West Gear,1128299,12/28/20,West,California,San Francisco,Women's Athletic Footwear,48,188,9024,3068.16,Outlet
+West Gear,1128299,12/28/20,West,California,San Francisco,Women's Athletic Footwear,54,188,10152,4162.32,Online
+Kohl's,1189833,12/28/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,35,475,166250,74812.5,Outlet
+Kohl's,1189833,12/28/20,Midwest,Minnesota,Minneapolis,Men's Street Footwear,32,119,3808,2208.64,Online
+West Gear,1128299,12/29/20,West,California,San Francisco,Men's Apparel,59,152,8968,5829.2,Online
+Kohl's,1189833,12/29/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,45,475,213750,64125,Outlet
+West Gear,1128299,12/29/20,West,California,San Francisco,Men's Apparel,65,525,341250,170625,Outlet
+Kohl's,1189833,12/29/20,Midwest,Minnesota,Minneapolis,Men's Athletic Footwear,43,128,5504,2311.68,Online
+West Gear,1128299,12/29/20,West,California,San Francisco,Men's Apparel,47,158,7426,4158.56,Outlet
+West Gear,1128299,12/30/20,West,California,San Francisco,Women's Apparel,72,203,14616,3946.32,Online
+West Gear,1128299,12/30/20,West,California,San Francisco,Women's Apparel,80,700,560000,84000,Outlet
+Kohl's,1189833,12/30/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,41,119,4879,2878.61,Online
+Kohl's,1189833,12/30/20,Midwest,Minnesota,Minneapolis,Women's Street Footwear,45,475,213750,96187.5,Outlet
+West Gear,1128299,12/30/20,West,California,San Francisco,Women's Apparel,62,245,15190,2886.1,Outlet
